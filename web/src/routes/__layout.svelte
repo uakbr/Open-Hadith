@@ -9,14 +9,15 @@
 
 <div class="flex flex-col gap-1 mt-8 mb-8">
 	<p class="text-xs font-medium text-center text-gray-500">
-		Sadaqah Jariyah
-		<a href="https://github.com/uakbr" class="text-gray-500 hover:underline">Jariyah</a>
+		Made with ❤️
+		<a href="https://github.com/uakbr" class="text-gray-500 hover:underline"></a>
 	</p>
 	<p class="text-xs text-center text-gray-500">
-		© 2022
+		© 2023
 		<span class="mx-1">|</span>
 		<a href="https://github.com/uakbr/open-hadith" class="text-gray-500 hover:underline"
 			>Open Hadith
 		</a>
 	</p>
 </div>
+
