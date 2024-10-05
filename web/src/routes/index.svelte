@@ -9,7 +9,7 @@
 				}
 			};
 		}
-		const res = await fetch(`https://ask-hadith.vercel.app/api/search?search=${searchKey}`);
+		const res = await fetch(`/api/search?search=${encodeURIComponent(searchKey)}`);
 
 		if (res.ok) {
 			const data = await res.json();
@@ -17,6 +17,13 @@
 				props: {
 					hadiths: data,
 					filteredHadiths: data
+				}
+			};
+		} else {
+			return {
+				props: {
+					hadiths: [],
+					filteredHadiths: []
 				}
 			};
 		}

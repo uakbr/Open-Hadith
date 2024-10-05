@@ -11,9 +11,9 @@
 		hadiths = [];
 		searching = true;
 		try {
-			const response = await fetch(`https://ask-hadith.vercel.app/api/search?search=${searchKey}`);
+			const response = await fetch(`/api/search?search=${encodeURIComponent(searchKey)}`);
 			hadiths = await response.json();
-			if (hadiths == null) {
+			if (!hadiths || hadiths.length === 0) {
 				notFound = true;
 				hadiths = [];
 			}
@@ -22,7 +22,7 @@
 			notFound = true;
 			hadiths = [];
 		}
-		window.history.pushState({}, '', `?search=${searchKey}`);
+		window.history.pushState({}, '', `?search=${encodeURIComponent(searchKey)}`);
 		searching = false;
 		notFound = false;
 	};
