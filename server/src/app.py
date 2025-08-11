@@ -7,6 +7,7 @@ from flask_cors import CORS
 from flask_sslify import SSLify
 
 from src.local_search import LocalHadithSearch
+from src.final_optimized_search import FinalOptimizedHadithSearch
 
 
 app = Flask(__name__, static_folder="../../frontend/build", static_url_path="/")
@@ -17,9 +18,15 @@ if os.getenv("FLASK_ENV") != "development":
 cors = CORS(app, resources={r"/*": {"origins": "*"}})
 app.config["CORS_HEADERS"] = "Content-Type"
 
-# Initialize local search
-local_search = LocalHadithSearch()
-print("Using local JSON data for search")
+# Initialize optimized search with lazy loading for fast startup
+try:
+    local_search = FinalOptimizedHadithSearch(lazy_load=True)
+    print("Using optimized local JSON search with lazy loading")
+except Exception as e:
+    print(f"Failed to initialize optimized search: {e}")
+    # Fallback to original implementation
+    local_search = LocalHadithSearch()
+    print("Using original local JSON search")
 
 
 @app.route("/api/search", methods=["GET"])
