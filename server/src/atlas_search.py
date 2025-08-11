@@ -13,7 +13,8 @@ class AtlasSearch:
     COLLECTION_NAME = "hadiths"
 
     def __init__(self, mongo_uri) -> None:
-        client = MongoClient(mongo_uri)
+        # Add timeout to prevent hanging
+        client = MongoClient(mongo_uri, serverSelectionTimeoutMS=1000, connectTimeoutMS=1000)
         self.db = client[AtlasSearch.DB_NAME]
         self.cursor = self.db[AtlasSearch.COLLECTION_NAME]
 

@@ -1,0 +1,260 @@
+[
+  {
+    "bookId": "1",
+    "bookName": "1Purification (Kitab Al-Taharah) كتاب الطهارة",
+    "collectionId": "abudawud",
+    "url": "https://sunnah.com/abudawud/1"
+  },
+  {
+    "bookId": "2",
+    "bookName": "2Prayer (Kitab Al-Salat) كتاب الصلاة",
+    "collectionId": "abudawud",
+    "url": "https://sunnah.com/abudawud/2"
+  },
+  {
+    "bookId": "3",
+    "bookName": "3The Book Of The Prayer For Rain (Kitab al-Istisqa') كتاب الاستسقاء",
+    "collectionId": "abudawud",
+    "url": "https://sunnah.com/abudawud/3"
+  },
+  {
+    "bookId": "4",
+    "bookName": "4Prayer (Kitab Al-Salat): Detailed Rules of Law about the Prayer during Journey كتاب صلاة السفر",
+    "collectionId": "abudawud",
+    "url": "https://sunnah.com/abudawud/4"
+  },
+  {
+    "bookId": "5",
+    "bookName": "5Prayer (Kitab Al-Salat): Voluntary Prayers كتاب التطوع",
+    "collectionId": "abudawud",
+    "url": "https://sunnah.com/abudawud/5"
+  },
+  {
+    "bookId": "6",
+    "bookName": "6Prayer (Kitab Al-Salat): Detailed Injunctions about Ramadan كتاب شهر رمضان",
+    "collectionId": "abudawud",
+    "url": "https://sunnah.com/abudawud/6"
+  },
+  {
+    "bookId": "7",
+    "bookName": "7Prayer (Kitab Al-Salat): Prostration while reciting the Qur'an كتاب سجود القرآن",
+    "collectionId": "abudawud",
+    "url": "https://sunnah.com/abudawud/7"
+  },
+  {
+    "bookId": "8",
+    "bookName": "8Prayer (Kitab Al-Salat): Detailed Injunctions about Witr كتاب الوتر",
+    "collectionId": "abudawud",
+    "url": "https://sunnah.com/abudawud/8"
+  },
+  {
+    "bookId": "9",
+    "bookName": "9Zakat (Kitab Al-Zakat) كتاب الزكاة",
+    "collectionId": "abudawud",
+    "url": "https://sunnah.com/abudawud/9"
+  },
+  {
+    "bookId": "10",
+    "bookName": "10The Book of Lost and Found Items كتاب اللقطة",
+    "collectionId": "abudawud",
+    "url": "https://sunnah.com/abudawud/10"
+  },
+  {
+    "bookId": "11",
+    "bookName": "11The Rites of Hajj (Kitab Al-Manasik Wa'l-Hajj) كتاب المناسك",
+    "collectionId": "abudawud",
+    "url": "https://sunnah.com/abudawud/11"
+  },
+  {
+    "bookId": "12",
+    "bookName": "12Marriage (Kitab Al-Nikah) كتاب النكاح",
+    "collectionId": "abudawud",
+    "url": "https://sunnah.com/abudawud/12"
+  },
+  {
+    "bookId": "13",
+    "bookName": "13Divorce (Kitab Al-Talaq) كتاب الطلاق",
+    "collectionId": "abudawud",
+    "url": "https://sunnah.com/abudawud/13"
+  },
+  {
+    "bookId": "14",
+    "bookName": "14Fasting (Kitab Al-Siyam) كتاب الصوم",
+    "collectionId": "abudawud",
+    "url": "https://sunnah.com/abudawud/14"
+  },
+  {
+    "bookId": "15",
+    "bookName": "15Jihad (Kitab Al-Jihad) كتاب الجهاد",
+    "collectionId": "abudawud",
+    "url": "https://sunnah.com/abudawud/15"
+  },
+  {
+    "bookId": "16",
+    "bookName": "16Sacrifice (Kitab Al-Dahaya) كتاب الضحايا",
+    "collectionId": "abudawud",
+    "url": "https://sunnah.com/abudawud/16"
+  },
+  {
+    "bookId": "17",
+    "bookName": "17Game (Kitab Al-Said) كتاب الصيد",
+    "collectionId": "abudawud",
+    "url": "https://sunnah.com/abudawud/17"
+  },
+  {
+    "bookId": "18",
+    "bookName": "18Wills (Kitab Al-Wasaya) كتاب الوصايا",
+    "collectionId": "abudawud",
+    "url": "https://sunnah.com/abudawud/18"
+  },
+  {
+    "bookId": "19",
+    "bookName": "19Shares of Inheritance (Kitab Al-Fara'id) كتاب الفرائض",
+    "collectionId": "abudawud",
+    "url": "https://sunnah.com/abudawud/19"
+  },
+  {
+    "bookId": "20",
+    "bookName": "20Tribute, Spoils, and Rulership (Kitab Al-Kharaj, Wal-Fai' Wal-Imarah) كتاب الخراج والإمارة والفىء",
+    "collectionId": "abudawud",
+    "url": "https://sunnah.com/abudawud/20"
+  },
+  {
+    "bookId": "21",
+    "bookName": "21Funerals (Kitab Al-Jana'iz) كتاب الجنائز",
+    "collectionId": "abudawud",
+    "url": "https://sunnah.com/abudawud/21"
+  },
+  {
+    "bookId": "22",
+    "bookName": "22Oaths and Vows (Kitab Al-Aiman Wa Al-Nudhur) كتاب الأيمان والنذور",
+    "collectionId": "abudawud",
+    "url": "https://sunnah.com/abudawud/22"
+  },
+  {
+    "bookId": "23",
+    "bookName": "23Commercial Transactions (Kitab Al-Buyu) كتاب البيوع",
+    "collectionId": "abudawud",
+    "url": "https://sunnah.com/abudawud/23"
+  },
+  {
+    "bookId": "24",
+    "bookName": "24Wages (Kitab Al-Ijarah) كتاب الإجارة",
+    "collectionId": "abudawud",
+    "url": "https://sunnah.com/abudawud/24"
+  },
+  {
+    "bookId": "25",
+    "bookName": "25The Office of the Judge (Kitab Al-Aqdiyah) كتاب الأقضية",
+    "collectionId": "abudawud",
+    "url": "https://sunnah.com/abudawud/25"
+  },
+  {
+    "bookId": "26",
+    "bookName": "26Knowledge (Kitab Al-Ilm) كتاب العلم",
+    "collectionId": "abudawud",
+    "url": "https://sunnah.com/abudawud/26"
+  },
+  {
+    "bookId": "27",
+    "bookName": "27Drinks (Kitab Al-Ashribah) كتاب الأشربة",
+    "collectionId": "abudawud",
+    "url": "https://sunnah.com/abudawud/27"
+  },
+  {
+    "bookId": "28",
+    "bookName": "28Foods (Kitab Al-At'imah) كتاب الأطعمة",
+    "collectionId": "abudawud",
+    "url": "https://sunnah.com/abudawud/28"
+  },
+  {
+    "bookId": "29",
+    "bookName": "29Medicine (Kitab Al-Tibb) كتاب الطب",
+    "collectionId": "abudawud",
+    "url": "https://sunnah.com/abudawud/29"
+  },
+  {
+    "bookId": "30",
+    "bookName": "30Divination and Omens (Kitab Al-Kahanah Wa Al-Tatayyur)كتاب الكهانة و التطير",
+    "collectionId": "abudawud",
+    "url": "https://sunnah.com/abudawud/30"
+  },
+  {
+    "bookId": "31",
+    "bookName": "31The Book of Manumission of Slaves كتاب العتق",
+    "collectionId": "abudawud",
+    "url": "https://sunnah.com/abudawud/31"
+  },
+  {
+    "bookId": "32",
+    "bookName": "32Dialects and Readings of the Qur'an (Kitab Al-Huruf Wa Al-Qira'at) كتاب الحروف والقراءات",
+    "collectionId": "abudawud",
+    "url": "https://sunnah.com/abudawud/32"
+  },
+  {
+    "bookId": "33",
+    "bookName": "33Hot Baths (Kitab Al-Hammam) كتاب الحمَّام",
+    "collectionId": "abudawud",
+    "url": "https://sunnah.com/abudawud/33"
+  },
+  {
+    "bookId": "34",
+    "bookName": "34Clothing (Kitab Al-Libas) كتاب اللباس",
+    "collectionId": "abudawud",
+    "url": "https://sunnah.com/abudawud/34"
+  },
+  {
+    "bookId": "35",
+    "bookName": "35Combing the Hair (Kitab Al-Tarajjul) كتاب الترجل",
+    "collectionId": "abudawud",
+    "url": "https://sunnah.com/abudawud/35"
+  },
+  {
+    "bookId": "36",
+    "bookName": "36Signet-Rings (Kitab Al-Khatam) كتاب الخاتم",
+    "collectionId": "abudawud",
+    "url": "https://sunnah.com/abudawud/36"
+  },
+  {
+    "bookId": "37",
+    "bookName": "37Trials and Fierce Battles (Kitab Al-Fitan Wa Al-Malahim) كتاب الفتن والملاحم",
+    "collectionId": "abudawud",
+    "url": "https://sunnah.com/abudawud/37"
+  },
+  {
+    "bookId": "38",
+    "bookName": "38The Promised Deliverer (Kitab Al-Mahdi) كتاب المهدى",
+    "collectionId": "abudawud",
+    "url": "https://sunnah.com/abudawud/38"
+  },
+  {
+    "bookId": "39",
+    "bookName": "39Battles (Kitab Al-Malahim) كتاب الملاحم",
+    "collectionId": "abudawud",
+    "url": "https://sunnah.com/abudawud/39"
+  },
+  {
+    "bookId": "40",
+    "bookName": "40Prescribed Punishments (Kitab Al-Hudud) كتاب الحدود",
+    "collectionId": "abudawud",
+    "url": "https://sunnah.com/abudawud/40"
+  },
+  {
+    "bookId": "41",
+    "bookName": "41Types of Blood-Wit (Kitab Al-Diyat) كتاب الديات",
+    "collectionId": "abudawud",
+    "url": "https://sunnah.com/abudawud/41"
+  },
+  {
+    "bookId": "42",
+    "bookName": "42Model Behavior of the Prophet (Kitab Al-Sunnah) كتاب السنة",
+    "collectionId": "abudawud",
+    "url": "https://sunnah.com/abudawud/42"
+  },
+  {
+    "bookId": "43",
+    "bookName": "43General Behavior (Kitab Al-Adab) كتاب الأدب",
+    "collectionId": "abudawud",
+    "url": "https://sunnah.com/abudawud/43"
+  }
+]

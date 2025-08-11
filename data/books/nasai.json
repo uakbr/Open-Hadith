@@ -1,0 +1,308 @@
+[
+  {
+    "bookId": "1",
+    "bookName": "1The Book of Purification كتاب الطهارة",
+    "collectionId": "nasai",
+    "url": "https://sunnah.com/nasai/1"
+  },
+  {
+    "bookId": "2",
+    "bookName": "2The Book of Water كتاب المياه",
+    "collectionId": "nasai",
+    "url": "https://sunnah.com/nasai/2"
+  },
+  {
+    "bookId": "3",
+    "bookName": "3The Book of Menstruation and Istihadah كتاب الحيض والاستحاضة",
+    "collectionId": "nasai",
+    "url": "https://sunnah.com/nasai/3"
+  },
+  {
+    "bookId": "4",
+    "bookName": "4The Book of Ghusl and Tayammum كتاب الغسل والتيمم",
+    "collectionId": "nasai",
+    "url": "https://sunnah.com/nasai/4"
+  },
+  {
+    "bookId": "5",
+    "bookName": "5The Book of Salah كتاب الصلاة",
+    "collectionId": "nasai",
+    "url": "https://sunnah.com/nasai/5"
+  },
+  {
+    "bookId": "6",
+    "bookName": "6The Book of the Times (of Prayer) كتاب المواقيت",
+    "collectionId": "nasai",
+    "url": "https://sunnah.com/nasai/6"
+  },
+  {
+    "bookId": "7",
+    "bookName": "7The Book of the Adhan (The Call to Prayer) كتاب الأذان",
+    "collectionId": "nasai",
+    "url": "https://sunnah.com/nasai/7"
+  },
+  {
+    "bookId": "8",
+    "bookName": "8The Book of the Masjids كتاب المساجد",
+    "collectionId": "nasai",
+    "url": "https://sunnah.com/nasai/8"
+  },
+  {
+    "bookId": "9",
+    "bookName": "9The Book of the Qiblah كتاب القبلة",
+    "collectionId": "nasai",
+    "url": "https://sunnah.com/nasai/9"
+  },
+  {
+    "bookId": "10",
+    "bookName": "10The Book of Leading the Prayer (Al-Imamah) كتاب الإمامة",
+    "collectionId": "nasai",
+    "url": "https://sunnah.com/nasai/10"
+  },
+  {
+    "bookId": "11",
+    "bookName": "11The Book of the Commencement of the Prayer كتاب الافتتاح",
+    "collectionId": "nasai",
+    "url": "https://sunnah.com/nasai/11"
+  },
+  {
+    "bookId": "12",
+    "bookName": "12The Book of The At-Tatbiq (Clasping One's Hands Together) كتاب التطبيق",
+    "collectionId": "nasai",
+    "url": "https://sunnah.com/nasai/12"
+  },
+  {
+    "bookId": "13",
+    "bookName": "13The Book of Forgetfulness (In Prayer) كتاب السهو",
+    "collectionId": "nasai",
+    "url": "https://sunnah.com/nasai/13"
+  },
+  {
+    "bookId": "14",
+    "bookName": "14The Book of Jumu'ah (Friday Prayer) كتاب الجمعة",
+    "collectionId": "nasai",
+    "url": "https://sunnah.com/nasai/14"
+  },
+  {
+    "bookId": "15",
+    "bookName": "15The Book of Shortening the Prayer When Traveling كتاب تقصير الصلاة فى السفر",
+    "collectionId": "nasai",
+    "url": "https://sunnah.com/nasai/15"
+  },
+  {
+    "bookId": "16",
+    "bookName": "16The Book of Eclipses كتاب الكسوف",
+    "collectionId": "nasai",
+    "url": "https://sunnah.com/nasai/16"
+  },
+  {
+    "bookId": "17",
+    "bookName": "17The Book of Praying for Rain (Al-Istisqa') كتاب الاستسقاء",
+    "collectionId": "nasai",
+    "url": "https://sunnah.com/nasai/17"
+  },
+  {
+    "bookId": "18",
+    "bookName": "18The Book of the Fear Prayer كتاب صلاة الخوف",
+    "collectionId": "nasai",
+    "url": "https://sunnah.com/nasai/18"
+  },
+  {
+    "bookId": "19",
+    "bookName": "19The Book of the Prayer for the Two 'Eids كتاب صلاة العيدين",
+    "collectionId": "nasai",
+    "url": "https://sunnah.com/nasai/19"
+  },
+  {
+    "bookId": "20",
+    "bookName": "20The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day كتاب قيام الليل وتطوع النهار",
+    "collectionId": "nasai",
+    "url": "https://sunnah.com/nasai/20"
+  },
+  {
+    "bookId": "21",
+    "bookName": "21The Book of Funerals كتاب الجنائز",
+    "collectionId": "nasai",
+    "url": "https://sunnah.com/nasai/21"
+  },
+  {
+    "bookId": "22",
+    "bookName": "22The Book of Fasting كتاب الصيام",
+    "collectionId": "nasai",
+    "url": "https://sunnah.com/nasai/22"
+  },
+  {
+    "bookId": "23",
+    "bookName": "23The Book of Zakah كتاب الزكاة",
+    "collectionId": "nasai",
+    "url": "https://sunnah.com/nasai/23"
+  },
+  {
+    "bookId": "24",
+    "bookName": "24The Book of Hajj كتاب مناسك الحج",
+    "collectionId": "nasai",
+    "url": "https://sunnah.com/nasai/24"
+  },
+  {
+    "bookId": "25",
+    "bookName": "25The Book of Jihad كتاب الجهاد",
+    "collectionId": "nasai",
+    "url": "https://sunnah.com/nasai/25"
+  },
+  {
+    "bookId": "26",
+    "bookName": "26The Book of Marriage كتاب النكاح",
+    "collectionId": "nasai",
+    "url": "https://sunnah.com/nasai/26"
+  },
+  {
+    "bookId": "27",
+    "bookName": "27The Book of Divorce كتاب الطلاق",
+    "collectionId": "nasai",
+    "url": "https://sunnah.com/nasai/27"
+  },
+  {
+    "bookId": "28",
+    "bookName": "28The Book of Horses, Races and Shooting كتاب الخيل",
+    "collectionId": "nasai",
+    "url": "https://sunnah.com/nasai/28"
+  },
+  {
+    "bookId": "29",
+    "bookName": "29The Book of Endowments كتاب الإحباس",
+    "collectionId": "nasai",
+    "url": "https://sunnah.com/nasai/29"
+  },
+  {
+    "bookId": "30",
+    "bookName": "30The Book of Wills كتاب الوصايا",
+    "collectionId": "nasai",
+    "url": "https://sunnah.com/nasai/30"
+  },
+  {
+    "bookId": "31",
+    "bookName": "31The Book of Presents كتاب النحل",
+    "collectionId": "nasai",
+    "url": "https://sunnah.com/nasai/31"
+  },
+  {
+    "bookId": "32",
+    "bookName": "32The Book of Gifts كتاب الهبة",
+    "collectionId": "nasai",
+    "url": "https://sunnah.com/nasai/32"
+  },
+  {
+    "bookId": "33",
+    "bookName": "33The Book of ar-Ruqba كتاب الرقبى",
+    "collectionId": "nasai",
+    "url": "https://sunnah.com/nasai/33"
+  },
+  {
+    "bookId": "34",
+    "bookName": "34The Book of 'Umra كتاب العمرى",
+    "collectionId": "nasai",
+    "url": "https://sunnah.com/nasai/34"
+  },
+  {
+    "bookId": "35",
+    "bookName": "35The Book of Oaths and Vows كتاب الأيمان والنذور",
+    "collectionId": "nasai",
+    "url": "https://sunnah.com/nasai/35"
+  },
+  {
+    "bookId": "36",
+    "bookName": "36The Book of the Kind Treatment of Women كتاب عشرة النساء",
+    "collectionId": "nasai",
+    "url": "https://sunnah.com/nasai/36"
+  },
+  {
+    "bookId": "37",
+    "bookName": "37The Book of Fighting [The Prohibition of Bloodshed] كتاب تحريم الدم",
+    "collectionId": "nasai",
+    "url": "https://sunnah.com/nasai/37"
+  },
+  {
+    "bookId": "38",
+    "bookName": "38The Book of Distribution of Al-Fay' كتاب قسم الفىء",
+    "collectionId": "nasai",
+    "url": "https://sunnah.com/nasai/38"
+  },
+  {
+    "bookId": "39",
+    "bookName": "39The Book of al-Bay'ah كتاب البيعة",
+    "collectionId": "nasai",
+    "url": "https://sunnah.com/nasai/39"
+  },
+  {
+    "bookId": "40",
+    "bookName": "40The Book of al-'Aqiqah كتاب العقيقة",
+    "collectionId": "nasai",
+    "url": "https://sunnah.com/nasai/40"
+  },
+  {
+    "bookId": "41",
+    "bookName": "41The Book of al-Fara' and al-'Atirah كتاب الفرع والعتيرة",
+    "collectionId": "nasai",
+    "url": "https://sunnah.com/nasai/41"
+  },
+  {
+    "bookId": "42",
+    "bookName": "42The Book of Hunting and Slaughtering كتاب الصيد والذبائح",
+    "collectionId": "nasai",
+    "url": "https://sunnah.com/nasai/42"
+  },
+  {
+    "bookId": "43",
+    "bookName": "43The Book of ad-Dahaya (Sacrifices) كتاب الضحايا",
+    "collectionId": "nasai",
+    "url": "https://sunnah.com/nasai/43"
+  },
+  {
+    "bookId": "44",
+    "bookName": "44The Book of Financial Transactions كتاب البيوع",
+    "collectionId": "nasai",
+    "url": "https://sunnah.com/nasai/44"
+  },
+  {
+    "bookId": "45",
+    "bookName": "45The Book of Oaths (qasamah), Retaliation and Blood Money كتاب القسامة",
+    "collectionId": "nasai",
+    "url": "https://sunnah.com/nasai/45"
+  },
+  {
+    "bookId": "46",
+    "bookName": "46The Book of Cutting off the Hand of the Thief كتاب قطع السارق",
+    "collectionId": "nasai",
+    "url": "https://sunnah.com/nasai/46"
+  },
+  {
+    "bookId": "47",
+    "bookName": "47The Book Of Faith and its Signs كتاب الإيمان وشرائعه",
+    "collectionId": "nasai",
+    "url": "https://sunnah.com/nasai/47"
+  },
+  {
+    "bookId": "48",
+    "bookName": "48The Book of Adornment كتاب الزينة من السنن",
+    "collectionId": "nasai",
+    "url": "https://sunnah.com/nasai/48"
+  },
+  {
+    "bookId": "49",
+    "bookName": "49The Book of the Etiquette of Judges كتاب آداب القضاة",
+    "collectionId": "nasai",
+    "url": "https://sunnah.com/nasai/49"
+  },
+  {
+    "bookId": "50",
+    "bookName": "50The Book of Seeking Refuge with Allah كتاب الاستعاذة",
+    "collectionId": "nasai",
+    "url": "https://sunnah.com/nasai/50"
+  },
+  {
+    "bookId": "51",
+    "bookName": "51The Book of Drinks كتاب الأشربة",
+    "collectionId": "nasai",
+    "url": "https://sunnah.com/nasai/51"
+  }
+]

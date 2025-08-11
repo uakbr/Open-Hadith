@@ -1,0 +1,368 @@
+[
+  {
+    "bookId": "1",
+    "bookName": "1The Times of Prayer كتاب وقوت الصلاة",
+    "collectionId": "malik",
+    "url": "https://sunnah.com/malik/1"
+  },
+  {
+    "bookId": "2",
+    "bookName": "2Purity كتاب الطهارة",
+    "collectionId": "malik",
+    "url": "https://sunnah.com/malik/2"
+  },
+  {
+    "bookId": "3",
+    "bookName": "3Prayer كتاب الصلاة",
+    "collectionId": "malik",
+    "url": "https://sunnah.com/malik/3"
+  },
+  {
+    "bookId": "4",
+    "bookName": "4Forgetfulness in Prayer كتاب السهو",
+    "collectionId": "malik",
+    "url": "https://sunnah.com/malik/4"
+  },
+  {
+    "bookId": "5",
+    "bookName": "5Jumu'a كتاب الجمعة",
+    "collectionId": "malik",
+    "url": "https://sunnah.com/malik/5"
+  },
+  {
+    "bookId": "6",
+    "bookName": "6Prayer in Ramadan كتاب الصلاة فى رمضان",
+    "collectionId": "malik",
+    "url": "https://sunnah.com/malik/6"
+  },
+  {
+    "bookId": "7",
+    "bookName": "7Tahajjud كتاب صلاة الليل",
+    "collectionId": "malik",
+    "url": "https://sunnah.com/malik/7"
+  },
+  {
+    "bookId": "8",
+    "bookName": "8Prayer in Congregation كتاب صلاة الجماعة",
+    "collectionId": "malik",
+    "url": "https://sunnah.com/malik/8"
+  },
+  {
+    "bookId": "9",
+    "bookName": "9Shortening the Prayer كتاب قصر الصلاة فى السفر",
+    "collectionId": "malik",
+    "url": "https://sunnah.com/malik/9"
+  },
+  {
+    "bookId": "10",
+    "bookName": "10The Two 'Ids كتاب العيدين",
+    "collectionId": "malik",
+    "url": "https://sunnah.com/malik/10"
+  },
+  {
+    "bookId": "11",
+    "bookName": "11The Fear Prayer كتاب صلاة الخوف",
+    "collectionId": "malik",
+    "url": "https://sunnah.com/malik/11"
+  },
+  {
+    "bookId": "12",
+    "bookName": "12The Eclipse Prayer كتاب صلاة الكسوف",
+    "collectionId": "malik",
+    "url": "https://sunnah.com/malik/12"
+  },
+  {
+    "bookId": "13",
+    "bookName": "13Asking for Rain كتاب الاستسقاء",
+    "collectionId": "malik",
+    "url": "https://sunnah.com/malik/13"
+  },
+  {
+    "bookId": "14",
+    "bookName": "14The Qibla كتاب القبلة",
+    "collectionId": "malik",
+    "url": "https://sunnah.com/malik/14"
+  },
+  {
+    "bookId": "15",
+    "bookName": "15The Qur'an كتاب القرآن",
+    "collectionId": "malik",
+    "url": "https://sunnah.com/malik/15"
+  },
+  {
+    "bookId": "16",
+    "bookName": "16Burials كتاب الجنائز",
+    "collectionId": "malik",
+    "url": "https://sunnah.com/malik/16"
+  },
+  {
+    "bookId": "17",
+    "bookName": "17Zakat كتاب الزكاة",
+    "collectionId": "malik",
+    "url": "https://sunnah.com/malik/17"
+  },
+  {
+    "bookId": "18",
+    "bookName": "18Fasting كتاب الصيام",
+    "collectionId": "malik",
+    "url": "https://sunnah.com/malik/18"
+  },
+  {
+    "bookId": "19",
+    "bookName": "19I'tikaf in Ramadan كتاب الاعتكاف",
+    "collectionId": "malik",
+    "url": "https://sunnah.com/malik/19"
+  },
+  {
+    "bookId": "20",
+    "bookName": "20Hajj كتاب الحج",
+    "collectionId": "malik",
+    "url": "https://sunnah.com/malik/20"
+  },
+  {
+    "bookId": "21",
+    "bookName": "21Jihad كتاب الجهاد",
+    "collectionId": "malik",
+    "url": "https://sunnah.com/malik/21"
+  },
+  {
+    "bookId": "22",
+    "bookName": "22Vows and Oaths كتاب النذور والأيمان",
+    "collectionId": "malik",
+    "url": "https://sunnah.com/malik/22"
+  },
+  {
+    "bookId": "23",
+    "bookName": "23Sacrificial Animals كتاب الضحايا",
+    "collectionId": "malik",
+    "url": "https://sunnah.com/malik/23"
+  },
+  {
+    "bookId": "24",
+    "bookName": "24Slaughtering Animals كتاب الذبائح",
+    "collectionId": "malik",
+    "url": "https://sunnah.com/malik/24"
+  },
+  {
+    "bookId": "25",
+    "bookName": "25Game كتاب الصيد",
+    "collectionId": "malik",
+    "url": "https://sunnah.com/malik/25"
+  },
+  {
+    "bookId": "26",
+    "bookName": "26The 'Aqiqa كتاب العقيقة",
+    "collectionId": "malik",
+    "url": "https://sunnah.com/malik/26"
+  },
+  {
+    "bookId": "27",
+    "bookName": "27Fara'id كتاب الفرائض",
+    "collectionId": "malik",
+    "url": "https://sunnah.com/malik/27"
+  },
+  {
+    "bookId": "28",
+    "bookName": "28Marriage كتاب النكاح",
+    "collectionId": "malik",
+    "url": "https://sunnah.com/malik/28"
+  },
+  {
+    "bookId": "29",
+    "bookName": "29Divorce كتاب الطلاق",
+    "collectionId": "malik",
+    "url": "https://sunnah.com/malik/29"
+  },
+  {
+    "bookId": "30",
+    "bookName": "30Suckling كتاب الرضاع",
+    "collectionId": "malik",
+    "url": "https://sunnah.com/malik/30"
+  },
+  {
+    "bookId": "31",
+    "bookName": "31Business Transactions كتاب البيوع",
+    "collectionId": "malik",
+    "url": "https://sunnah.com/malik/31"
+  },
+  {
+    "bookId": "32",
+    "bookName": "32Qirad كتاب القراض",
+    "collectionId": "malik",
+    "url": "https://sunnah.com/malik/32"
+  },
+  {
+    "bookId": "33",
+    "bookName": "33Sharecropping كتاب المساقاة",
+    "collectionId": "malik",
+    "url": "https://sunnah.com/malik/33"
+  },
+  {
+    "bookId": "34",
+    "bookName": "34Renting Land كتاب كراء الأرض",
+    "collectionId": "malik",
+    "url": "https://sunnah.com/malik/34"
+  },
+  {
+    "bookId": "35",
+    "bookName": "35Pre-emption in Property كتاب الشفعة",
+    "collectionId": "malik",
+    "url": "https://sunnah.com/malik/35"
+  },
+  {
+    "bookId": "36",
+    "bookName": "36Judgements كتاب الأقضية",
+    "collectionId": "malik",
+    "url": "https://sunnah.com/malik/36"
+  },
+  {
+    "bookId": "37",
+    "bookName": "37Wills and Testaments كتاب الوصية",
+    "collectionId": "malik",
+    "url": "https://sunnah.com/malik/37"
+  },
+  {
+    "bookId": "38",
+    "bookName": "38Setting Free and Wala' كتاب العتق والولاء",
+    "collectionId": "malik",
+    "url": "https://sunnah.com/malik/38"
+  },
+  {
+    "bookId": "39",
+    "bookName": "39The Mukatab كتاب المكاتب",
+    "collectionId": "malik",
+    "url": "https://sunnah.com/malik/39"
+  },
+  {
+    "bookId": "40",
+    "bookName": "40The Mudabbar كتاب المدبر",
+    "collectionId": "malik",
+    "url": "https://sunnah.com/malik/40"
+  },
+  {
+    "bookId": "41",
+    "bookName": "41Hudud كتاب الحدود",
+    "collectionId": "malik",
+    "url": "https://sunnah.com/malik/41"
+  },
+  {
+    "bookId": "42",
+    "bookName": "42Drinks كتاب الأشربة",
+    "collectionId": "malik",
+    "url": "https://sunnah.com/malik/42"
+  },
+  {
+    "bookId": "43",
+    "bookName": "43Blood-Money كتاب العقول",
+    "collectionId": "malik",
+    "url": "https://sunnah.com/malik/43"
+  },
+  {
+    "bookId": "44",
+    "bookName": "44The Oath of Qasama كتاب القسامة",
+    "collectionId": "malik",
+    "url": "https://sunnah.com/malik/44"
+  },
+  {
+    "bookId": "45",
+    "bookName": "45Madinaكتاب الْمَدِينَةِ",
+    "collectionId": "malik",
+    "url": "https://sunnah.com/malik/45"
+  },
+  {
+    "bookId": "46",
+    "bookName": "46The Decreeكتاب القدر",
+    "collectionId": "malik",
+    "url": "https://sunnah.com/malik/46"
+  },
+  {
+    "bookId": "47",
+    "bookName": "47Good Characterكتاب حسن الخلق",
+    "collectionId": "malik",
+    "url": "https://sunnah.com/malik/47"
+  },
+  {
+    "bookId": "48",
+    "bookName": "48Dress كتاب اللباس",
+    "collectionId": "malik",
+    "url": "https://sunnah.com/malik/48"
+  },
+  {
+    "bookId": "49",
+    "bookName": "49The Description of the Prophet, may Allah Bless Him and Grant Him Peace كتاب صفة النبى صلى الله عليه وسلم",
+    "collectionId": "malik",
+    "url": "https://sunnah.com/malik/49"
+  },
+  {
+    "bookId": "50",
+    "bookName": "50The Evil Eye كتاب العين",
+    "collectionId": "malik",
+    "url": "https://sunnah.com/malik/50"
+  },
+  {
+    "bookId": "51",
+    "bookName": "51Hair كتاب الشعر",
+    "collectionId": "malik",
+    "url": "https://sunnah.com/malik/51"
+  },
+  {
+    "bookId": "52",
+    "bookName": "52Visions كتاب الرؤيا",
+    "collectionId": "malik",
+    "url": "https://sunnah.com/malik/52"
+  },
+  {
+    "bookId": "53",
+    "bookName": "53Greetings كتاب السلام",
+    "collectionId": "malik",
+    "url": "https://sunnah.com/malik/53"
+  },
+  {
+    "bookId": "54",
+    "bookName": "54General Subjects كتاب الاستئذان",
+    "collectionId": "malik",
+    "url": "https://sunnah.com/malik/54"
+  },
+  {
+    "bookId": "55",
+    "bookName": "55The Oath of Allegiance كتاب البيعة",
+    "collectionId": "malik",
+    "url": "https://sunnah.com/malik/55"
+  },
+  {
+    "bookId": "56",
+    "bookName": "56Speech كتاب الكلام",
+    "collectionId": "malik",
+    "url": "https://sunnah.com/malik/56"
+  },
+  {
+    "bookId": "57",
+    "bookName": "57Jahannam كتاب جهنم",
+    "collectionId": "malik",
+    "url": "https://sunnah.com/malik/57"
+  },
+  {
+    "bookId": "58",
+    "bookName": "58Sadaqa كتاب الصدقة",
+    "collectionId": "malik",
+    "url": "https://sunnah.com/malik/58"
+  },
+  {
+    "bookId": "59",
+    "bookName": "59Knowledge كتاب العلم",
+    "collectionId": "malik",
+    "url": "https://sunnah.com/malik/59"
+  },
+  {
+    "bookId": "60",
+    "bookName": "60The Supplication of the Unjustly Wronged كتاب دعوة المظلوم",
+    "collectionId": "malik",
+    "url": "https://sunnah.com/malik/60"
+  },
+  {
+    "bookId": "61",
+    "bookName": "61The Names of the Prophet, may Allah Bless Him and Grant Him Peace كتاب أسماء النبى صلى الله عليه وسلم",
+    "collectionId": "malik",
+    "url": "https://sunnah.com/malik/61"
+  }
+]

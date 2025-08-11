@@ -1,0 +1,59 @@
+{
+  "collectionId": "riyadussalihin",
+  "bookId": 9,
+  "bookName": "9The Book of I'tikafكتاب الاعتكاف",
+  "hadithCount": 3,
+  "hadiths": [
+    {
+      "hadithNumber": 1268,
+      "english": {
+        "narrated": "Ibn `Umar (May Allah be pleased with them) reported:",
+        "hadith": "The Messenger of Allah (ﷺ) used to observe I`tikaf in the last ten days of Ramadan.\n\n\n[Al-Bukhari and Muslim].",
+        "grade": ""
+      },
+      "arabic": {
+        "narrated": "",
+        "hadith": "عن ابن عمر رضي الله عنهما، قال‏:‏ كان رسول الله صلى الله عليه وسلم يعتكف العشر الأواخر من رمضان‏.‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏",
+        "grade": ""
+      },
+      "collectionId": "riyadussalihin",
+      "bookId": 9,
+      "bookName": "9The Book of I'tikafكتاب الاعتكاف",
+      "bookReference": 1268
+    },
+    {
+      "hadithNumber": 1269,
+      "english": {
+        "narrated": "'Aishah (May Allah be pleased with her) reported:",
+        "hadith": "The Prophet (ﷺ) used to engage himself in I'tikaf (seclusion for prayers) in the mosque during the last ten nights of Ramadan till he passed away; thereafter, his wives followed this practice after him.[Al- Bukhari and Muslim].",
+        "grade": ""
+      },
+      "arabic": {
+        "narrated": "",
+        "hadith": "وعن عائشة رضي الله عنها أن النبي صلى الله عليه وسلم كان يعتكف العشر الأواخر من رمضان، حتى توفاه الله، تعالى ثم اعتكف أزواجه من بعده‏.‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏",
+        "grade": ""
+      },
+      "collectionId": "riyadussalihin",
+      "bookId": 9,
+      "bookName": "9The Book of I'tikafكتاب الاعتكاف",
+      "bookReference": 1269
+    },
+    {
+      "hadithNumber": 1270,
+      "english": {
+        "narrated": "Abu Hurairah (May Allah be pleased with him) reported:",
+        "hadith": "The Prophet (ﷺ) used to observe I'tikaf every year (during Ramadan) for ten days; in the year in which he passed away, he observed I'tikaf for twenty days.[Al-Bukhari].",
+        "grade": ""
+      },
+      "arabic": {
+        "narrated": "",
+        "hadith": "وعن أبي هريرة رضي الله عنه قال‏:‏ كان النبي صلى الله عليه وسلم يعتكف في كل رمضان عشرة أيام، فلما كان العام الذي قبض فيه اعتكف عشرين يومًا ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏",
+        "grade": ""
+      },
+      "collectionId": "riyadussalihin",
+      "bookId": 9,
+      "bookName": "9The Book of I'tikafكتاب الاعتكاف",
+      "bookReference": 1270
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "collections": [
+    {
+      "id": "bukhari",
+      "name": "Sahih al-Bukhari",
+      "urlId": "bukhari"
+    },
+    {
+      "id": "muslim",
+      "name": "Sahih Muslim",
+      "urlId": "muslim"
+    },
+    {
+      "id": "abudawud",
+      "name": "Sunan Abi Dawud",
+      "urlId": "abudawud"
+    },
+    {
+      "id": "tirmidhi",
+      "name": "Jami` at-Tirmidhi",
+      "urlId": "tirmidhi"
+    },
+    {
+      "id": "nasai",
+      "name": "Sunan an-Nasa'i",
+      "urlId": "nasai"
+    },
+    {
+      "id": "ibnmajah",
+      "name": "Sunan Ibn Majah",
+      "urlId": "ibnmajah"
+    },
+    {
+      "id": "malik",
+      "name": "Muwatta Malik",
+      "urlId": "malik"
+    },
+    {
+      "id": "riyadussalihin",
+      "name": "Riyad as-Salihin",
+      "urlId": "riyadussalihin"
+    },
+    {
+      "id": "adab",
+      "name": "Al-Adab Al-Mufrad",
+      "urlId": "adab"
+    },
+    {
+      "id": "bulugh",
+      "name": "Bulugh al-Maram",
+      "urlId": "bulugh"
+    },
+    {
+      "id": "40hadith",
+      "name": "40 Hadith Nawawi",
+      "urlId": "40hadith"
+    },
+    {
+      "id": "qudsi40",
+      "name": "40 Hadith Qudsi",
+      "urlId": "qudsi40"
+    },
+    {
+      "id": "shamail",
+      "name": "Shamail Muhammadiyah",
+      "urlId": "shamail"
+    }
+  ],
+  "lastUpdated": "2025-07-13T05:47:19.567Z",
+  "scraper": "turbo",
+  "version": "2.0"
+}

@@ -1,0 +1,59 @@
+{
+  "collectionId": "malik",
+  "bookId": 4,
+  "bookName": "4Forgetfulness in Prayer كتاب السهو",
+  "hadithCount": 3,
+  "hadiths": [
+    {
+      "hadithNumber": 4,
+      "english": {
+        "narrated": "",
+        "hadith": "Yahya related to me from Malik from Ibn Shihab from Abu Salama\nibn Abdar-Rahman ibn Awf from Abu Hurayra that the Messenger of Allah,\nmay Allah bless him and grant him peace, said, \"When you stand in\nprayer, Shaytan comes to you and confuses you until you do not know\nhow much you have prayed. If you find that happening do two sajdas\nfrom the sitting position.\"",
+        "grade": ""
+      },
+      "arabic": {
+        "narrated": "",
+        "hadith": "\"‏ إِنَّ أَحَدَكُمْ إِذَا قَامَ يُصَلِّي جَاءَهُ الشَّيْطَانُ فَلَبَسَ عَلَيْهِ حَتَّى لاَ يَدْرِي كَمْ صَلَّى فَإِذَا وَجَدَ ذَلِكَ أَحَدُكُمْ فَلْيَسْجُدْ سَجْدَتَيْنِ وَهُوَ جَالِسٌ ‏\"",
+        "grade": ""
+      },
+      "collectionId": "malik",
+      "bookId": 4,
+      "bookName": "4Forgetfulness in Prayer كتاب السهو",
+      "bookReference": 4
+    },
+    {
+      "hadithNumber": 4,
+      "english": {
+        "narrated": "",
+        "hadith": "Yahya related to me from Malik that he had heard that the\nMessenger of Allah, may Allah bless him and grant him peace, said, \"I\nforget or I am made to forget so that I may establish the sunna.\"",
+        "grade": ""
+      },
+      "arabic": {
+        "narrated": "",
+        "hadith": "\"‏ إِنِّي لأَنْسَى أَوْ أُنَسَّى لأَسُنَّ ‏\"",
+        "grade": ""
+      },
+      "collectionId": "malik",
+      "bookId": 4,
+      "bookName": "4Forgetfulness in Prayer كتاب السهو",
+      "bookReference": 4
+    },
+    {
+      "hadithNumber": 4,
+      "english": {
+        "narrated": "",
+        "hadith": "Yahya related to me from Malik that he had heard that a man\nquestioned al-Qasim ibn Muhammad saying, \"My imagination works in the\nprayer, and it happens to me a lot.\" Al-Qasim ibn Muhammad said, \"Go\non with your prayer, for it will not go away from you until you go away\nsaying, 'I have not completed my prayer.' \"",
+        "grade": ""
+      },
+      "arabic": {
+        "narrated": "",
+        "hadith": "وَحَدَّثَنِي عَنْ مَالِكٍ، أَنَّهُ بَلَغَهُ أَنَّ رَجُلاً، سَأَلَ الْقَاسِمَ بْنَ مُحَمَّدٍ فَقَالَ إِنِّي أَهِمُ فِي صَلاَتِي فَيَكْثُرُ ذَلِكَ عَلَىَّ ‏.‏ فَقَالَ الْقَاسِمُ بْنُ مُحَمَّدٍ امْضِ فِي صَلاَتِكَ فَإِنَّهُ لَنْ يَذْهَبَ عَنْكَ حَتَّى تَنْصَرِفَ وَأَنْتَ تَقُولُ مَا أَتْمَمْتُ صَلاَتِي ‏.‏",
+        "grade": ""
+      },
+      "collectionId": "malik",
+      "bookId": 4,
+      "bookName": "4Forgetfulness in Prayer كتاب السهو",
+      "bookReference": 4
+    }
+  ]
+}

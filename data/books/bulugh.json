@@ -1,0 +1,98 @@
+[
+  {
+    "bookId": "1",
+    "bookName": "1The Book of Purificationكتاب الطهارة",
+    "collectionId": "bulugh",
+    "url": "https://sunnah.com/bulugh/1"
+  },
+  {
+    "bookId": "2",
+    "bookName": "2The Book of Prayerكتاب الصلاة",
+    "collectionId": "bulugh",
+    "url": "https://sunnah.com/bulugh/2"
+  },
+  {
+    "bookId": "3",
+    "bookName": "3Funeralsكتاب الجنائز",
+    "collectionId": "bulugh",
+    "url": "https://sunnah.com/bulugh/3"
+  },
+  {
+    "bookId": "4",
+    "bookName": "4The Book of Zakahكتاب الزكاة",
+    "collectionId": "bulugh",
+    "url": "https://sunnah.com/bulugh/4"
+  },
+  {
+    "bookId": "5",
+    "bookName": "5Fastingكتاب الصيام",
+    "collectionId": "bulugh",
+    "url": "https://sunnah.com/bulugh/5"
+  },
+  {
+    "bookId": "6",
+    "bookName": "6Hajjكتاب الحج",
+    "collectionId": "bulugh",
+    "url": "https://sunnah.com/bulugh/6"
+  },
+  {
+    "bookId": "7",
+    "bookName": "7Business Transactionsكتاب البيوع",
+    "collectionId": "bulugh",
+    "url": "https://sunnah.com/bulugh/7"
+  },
+  {
+    "bookId": "8",
+    "bookName": "8Marriageكتاب النكاح",
+    "collectionId": "bulugh",
+    "url": "https://sunnah.com/bulugh/8"
+  },
+  {
+    "bookId": "9",
+    "bookName": "9Crimes (Qisas or Retaliation)كتاب الجنايات",
+    "collectionId": "bulugh",
+    "url": "https://sunnah.com/bulugh/9"
+  },
+  {
+    "bookId": "10",
+    "bookName": "10Hududكتاب الحدود",
+    "collectionId": "bulugh",
+    "url": "https://sunnah.com/bulugh/10"
+  },
+  {
+    "bookId": "11",
+    "bookName": "11Jihadكتاب الجهاد",
+    "collectionId": "bulugh",
+    "url": "https://sunnah.com/bulugh/11"
+  },
+  {
+    "bookId": "12",
+    "bookName": "12Foodكتاب الأطعمة",
+    "collectionId": "bulugh",
+    "url": "https://sunnah.com/bulugh/12"
+  },
+  {
+    "bookId": "13",
+    "bookName": "13Oaths and Vowsكتاب الأيمان والنذور",
+    "collectionId": "bulugh",
+    "url": "https://sunnah.com/bulugh/13"
+  },
+  {
+    "bookId": "14",
+    "bookName": "14Judgmentsكتاب القضاء",
+    "collectionId": "bulugh",
+    "url": "https://sunnah.com/bulugh/14"
+  },
+  {
+    "bookId": "15",
+    "bookName": "15Emancipationكتاب العتق",
+    "collectionId": "bulugh",
+    "url": "https://sunnah.com/bulugh/15"
+  },
+  {
+    "bookId": "16",
+    "bookName": "16The Comprehensive Bookكتاب الجامع",
+    "collectionId": "bulugh",
+    "url": "https://sunnah.com/bulugh/16"
+  }
+]

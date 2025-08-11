@@ -1,0 +1,296 @@
+[
+  {
+    "bookId": "1",
+    "bookName": "1The Book on Purification كتاب الطهارة عن رسول الله صلى الله عليه وسلم",
+    "collectionId": "tirmidhi",
+    "url": "https://sunnah.com/tirmidhi/1"
+  },
+  {
+    "bookId": "2",
+    "bookName": "2The Book on Salat (Prayer) كتاب الصلاة",
+    "collectionId": "tirmidhi",
+    "url": "https://sunnah.com/tirmidhi/2"
+  },
+  {
+    "bookId": "3",
+    "bookName": "3The Book on Al-Witrأَبْوَابُ الْوِتْرِ",
+    "collectionId": "tirmidhi",
+    "url": "https://sunnah.com/tirmidhi/3"
+  },
+  {
+    "bookId": "4",
+    "bookName": "4The Book on the Day of Fridayكِتَاب الْجُمُعَةِ عَنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ",
+    "collectionId": "tirmidhi",
+    "url": "https://sunnah.com/tirmidhi/4"
+  },
+  {
+    "bookId": "5",
+    "bookName": "5The Book on the Two Eidsأَبْوَابُ الْعِيدَيْنِ عَنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ",
+    "collectionId": "tirmidhi",
+    "url": "https://sunnah.com/tirmidhi/5"
+  },
+  {
+    "bookId": "6",
+    "bookName": "6The Book on Travelingأَبْوَابُ السَّفَرِ",
+    "collectionId": "tirmidhi",
+    "url": "https://sunnah.com/tirmidhi/6"
+  },
+  {
+    "bookId": "7",
+    "bookName": "7The Book on Zakat كتاب الزكاة عن رسول الله صلى الله عليه وسلم",
+    "collectionId": "tirmidhi",
+    "url": "https://sunnah.com/tirmidhi/7"
+  },
+  {
+    "bookId": "8",
+    "bookName": "8The Book on Fasting كتاب الصوم عن رسول الله صلى الله عليه وسلم",
+    "collectionId": "tirmidhi",
+    "url": "https://sunnah.com/tirmidhi/8"
+  },
+  {
+    "bookId": "9",
+    "bookName": "9The Book on Hajj كتاب الحج عن رسول الله صلى الله عليه وسلم",
+    "collectionId": "tirmidhi",
+    "url": "https://sunnah.com/tirmidhi/9"
+  },
+  {
+    "bookId": "10",
+    "bookName": "10The Book on Jana''iz (Funerals) كتاب الجنائز عن رسول الله صلى الله عليه وسلم",
+    "collectionId": "tirmidhi",
+    "url": "https://sunnah.com/tirmidhi/10"
+  },
+  {
+    "bookId": "11",
+    "bookName": "11The Book on Marriage كتاب النكاح عن رسول الله صلى الله عليه وسلم",
+    "collectionId": "tirmidhi",
+    "url": "https://sunnah.com/tirmidhi/11"
+  },
+  {
+    "bookId": "12",
+    "bookName": "12The Book on Suckling كتاب الرضاع",
+    "collectionId": "tirmidhi",
+    "url": "https://sunnah.com/tirmidhi/12"
+  },
+  {
+    "bookId": "13",
+    "bookName": "13The Book on Divorce and Li'an كتاب الطلاق واللعان عن رسول الله صلى الله عليه وسلم",
+    "collectionId": "tirmidhi",
+    "url": "https://sunnah.com/tirmidhi/13"
+  },
+  {
+    "bookId": "14",
+    "bookName": "14The Book on Business كتاب البيوع عن رسول الله صلى الله عليه وسلم",
+    "collectionId": "tirmidhi",
+    "url": "https://sunnah.com/tirmidhi/14"
+  },
+  {
+    "bookId": "15",
+    "bookName": "15The Chapters On Judgements From The Messenger of Allah كتاب الأحكام عن رسول الله صلى الله عليه وسلم",
+    "collectionId": "tirmidhi",
+    "url": "https://sunnah.com/tirmidhi/15"
+  },
+  {
+    "bookId": "16",
+    "bookName": "16The Book on Blood Money كتاب الديات عن رسول الله صلى الله عليه وسلم",
+    "collectionId": "tirmidhi",
+    "url": "https://sunnah.com/tirmidhi/16"
+  },
+  {
+    "bookId": "17",
+    "bookName": "17The Book on Legal Punishments (Al-Hudud) كتاب الحدود عن رسول الله صلى الله عليه وسلم",
+    "collectionId": "tirmidhi",
+    "url": "https://sunnah.com/tirmidhi/17"
+  },
+  {
+    "bookId": "18",
+    "bookName": "18The Book on Huntingكتاب الصيد والذبائح عن رسول الله صلى الله عليه وسلم",
+    "collectionId": "tirmidhi",
+    "url": "https://sunnah.com/tirmidhi/18"
+  },
+  {
+    "bookId": "19",
+    "bookName": "19The Book on Sacrifices كتاب الأضاحى عن رسول الله صلى الله عليه وسلم",
+    "collectionId": "tirmidhi",
+    "url": "https://sunnah.com/tirmidhi/19"
+  },
+  {
+    "bookId": "20",
+    "bookName": "20The Book on Vows and Oaths كتاب النذور والأيمان عن رسول الله صلى الله عليه وسلم",
+    "collectionId": "tirmidhi",
+    "url": "https://sunnah.com/tirmidhi/20"
+  },
+  {
+    "bookId": "21",
+    "bookName": "21The Book on Military Expeditions كتاب السير عن رسول الله صلى الله عليه وسلم",
+    "collectionId": "tirmidhi",
+    "url": "https://sunnah.com/tirmidhi/21"
+  },
+  {
+    "bookId": "22",
+    "bookName": "22The Book on Virtues of Jihad كتاب فضائل الجهاد عن رسول الله صلى الله عليه وسلم",
+    "collectionId": "tirmidhi",
+    "url": "https://sunnah.com/tirmidhi/22"
+  },
+  {
+    "bookId": "23",
+    "bookName": "23The Book on Jihad كتاب الجهاد عن رسول الله صلى الله عليه وسلم",
+    "collectionId": "tirmidhi",
+    "url": "https://sunnah.com/tirmidhi/23"
+  },
+  {
+    "bookId": "24",
+    "bookName": "24The Book on Clothing كتاب اللباس",
+    "collectionId": "tirmidhi",
+    "url": "https://sunnah.com/tirmidhi/24"
+  },
+  {
+    "bookId": "25",
+    "bookName": "25The Book on Food كتاب الأطعمة عن رسول الله صلى الله عليه وسلم",
+    "collectionId": "tirmidhi",
+    "url": "https://sunnah.com/tirmidhi/25"
+  },
+  {
+    "bookId": "26",
+    "bookName": "26The Book on Drinks كتاب الأشربة عن رسول الله صلى الله عليه وسلم",
+    "collectionId": "tirmidhi",
+    "url": "https://sunnah.com/tirmidhi/26"
+  },
+  {
+    "bookId": "27",
+    "bookName": "27Chapters on Righteousness And Maintaining Good Relations With Relatives كتاب البر والصلة عن رسول الله صلى الله عليه وسلم",
+    "collectionId": "tirmidhi",
+    "url": "https://sunnah.com/tirmidhi/27"
+  },
+  {
+    "bookId": "28",
+    "bookName": "28Chapters on Medicine كتاب الطب عن رسول اللَّهِ صلى الله عليه وسلم",
+    "collectionId": "tirmidhi",
+    "url": "https://sunnah.com/tirmidhi/28"
+  },
+  {
+    "bookId": "29",
+    "bookName": "29Chapters On Inheritance كتاب الفرائض عن رسول الله صلى الله عليه وسلم",
+    "collectionId": "tirmidhi",
+    "url": "https://sunnah.com/tirmidhi/29"
+  },
+  {
+    "bookId": "30",
+    "bookName": "30Chapters On Wasaya (Wills and Testament) كتاب الوصايا عن رسول الله صلى الله عليه وسلم",
+    "collectionId": "tirmidhi",
+    "url": "https://sunnah.com/tirmidhi/30"
+  },
+  {
+    "bookId": "31",
+    "bookName": "31Chapters On Wala' And Gifts كتاب الولاء والهبة عن رسول الله صلى الله عليه وسلم",
+    "collectionId": "tirmidhi",
+    "url": "https://sunnah.com/tirmidhi/31"
+  },
+  {
+    "bookId": "32",
+    "bookName": "32Chapters On Al-Qadar كتاب القدر عن رسول الله صلى الله عليه وسلم",
+    "collectionId": "tirmidhi",
+    "url": "https://sunnah.com/tirmidhi/32"
+  },
+  {
+    "bookId": "33",
+    "bookName": "33Chapters On Al-Fitan كتاب الفتن عن رسول الله صلى الله عليه وسلم",
+    "collectionId": "tirmidhi",
+    "url": "https://sunnah.com/tirmidhi/33"
+  },
+  {
+    "bookId": "34",
+    "bookName": "34Chapters On Dreams كتاب الرؤيا عن رسول الله صلى الله عليه وسلم",
+    "collectionId": "tirmidhi",
+    "url": "https://sunnah.com/tirmidhi/34"
+  },
+  {
+    "bookId": "35",
+    "bookName": "35Chapters On Witnesses كتاب الشهادات عن رسول الله صلى الله عليه وسلم",
+    "collectionId": "tirmidhi",
+    "url": "https://sunnah.com/tirmidhi/35"
+  },
+  {
+    "bookId": "36",
+    "bookName": "36Chapters On Zuhd كتاب الزهد عن رسول الله صلى الله عليه وسلم",
+    "collectionId": "tirmidhi",
+    "url": "https://sunnah.com/tirmidhi/36"
+  },
+  {
+    "bookId": "37",
+    "bookName": "37Chapters on the description of the Day of Judgement, Ar-Riqaq, and Al-Wara' كتاب صفة القيامة والرقائق والورع عن رسول الله صلى الله",
+    "collectionId": "tirmidhi",
+    "url": "https://sunnah.com/tirmidhi/37"
+  },
+  {
+    "bookId": "38",
+    "bookName": "38Chapters on the description of Paradise كتاب صفة الجنة عن رسول الله صلى الله عليه وسلم",
+    "collectionId": "tirmidhi",
+    "url": "https://sunnah.com/tirmidhi/38"
+  },
+  {
+    "bookId": "39",
+    "bookName": "39The Book on the Description of Hellfire كتاب صفة جهنم عن رسول الله صلى الله عليه وسلم",
+    "collectionId": "tirmidhi",
+    "url": "https://sunnah.com/tirmidhi/39"
+  },
+  {
+    "bookId": "40",
+    "bookName": "40The Book on Faith كتاب الإيمان عن رسول الله صلى الله عليه وسلم",
+    "collectionId": "tirmidhi",
+    "url": "https://sunnah.com/tirmidhi/40"
+  },
+  {
+    "bookId": "41",
+    "bookName": "41Chapters on Knowledge كتاب العلم عن رسول الله صلى الله عليه وسلم",
+    "collectionId": "tirmidhi",
+    "url": "https://sunnah.com/tirmidhi/41"
+  },
+  {
+    "bookId": "42",
+    "bookName": "42Chapters on Seeking Permission كتاب الاستئذان والآداب عن رسول الله صلى الله عليه وسلم",
+    "collectionId": "tirmidhi",
+    "url": "https://sunnah.com/tirmidhi/42"
+  },
+  {
+    "bookId": "43",
+    "bookName": "43Chapters on Manners كتاب الأدب عن رسول الله صلى الله عليه وسلم",
+    "collectionId": "tirmidhi",
+    "url": "https://sunnah.com/tirmidhi/43"
+  },
+  {
+    "bookId": "44",
+    "bookName": "44Chapters on Parables كتاب الأمثال عن رسول الله صلى الله عليه وسلم",
+    "collectionId": "tirmidhi",
+    "url": "https://sunnah.com/tirmidhi/44"
+  },
+  {
+    "bookId": "45",
+    "bookName": "45Chapters on The Virtues of the Qur'an كتاب ثواب القرآن عن رسول الله صلى الله عليه وسلم",
+    "collectionId": "tirmidhi",
+    "url": "https://sunnah.com/tirmidhi/45"
+  },
+  {
+    "bookId": "46",
+    "bookName": "46Chapters on Recitation كتاب القراءات عن رسول الله صلى الله عليه وسلم",
+    "collectionId": "tirmidhi",
+    "url": "https://sunnah.com/tirmidhi/46"
+  },
+  {
+    "bookId": "47",
+    "bookName": "47Chapters on Tafsirكتاب تفسير القرآن عن رسول الله صلى الله عليه وسلم",
+    "collectionId": "tirmidhi",
+    "url": "https://sunnah.com/tirmidhi/47"
+  },
+  {
+    "bookId": "48",
+    "bookName": "48Chapters on Supplication كتاب الدعوات عن رسول الله صلى الله عليه وسلم",
+    "collectionId": "tirmidhi",
+    "url": "https://sunnah.com/tirmidhi/48"
+  },
+  {
+    "bookId": "49",
+    "bookName": "49Chapters on Virtues كتاب المناقب عن رسول الله صلى الله عليه وسلم",
+    "collectionId": "tirmidhi",
+    "url": "https://sunnah.com/tirmidhi/49"
+  }
+]

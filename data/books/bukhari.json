@@ -1,0 +1,584 @@
+[
+  {
+    "bookId": "1",
+    "bookName": "1Revelationكتاب بدء الوحى",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/1"
+  },
+  {
+    "bookId": "2",
+    "bookName": "2Beliefكتاب الإيمان",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/2"
+  },
+  {
+    "bookId": "3",
+    "bookName": "3Knowledgeكتاب العلم",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/3"
+  },
+  {
+    "bookId": "4",
+    "bookName": "4Ablutions (Wudu')كتاب الوضوء",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/4"
+  },
+  {
+    "bookId": "5",
+    "bookName": "5Bathing (Ghusl)كتاب الغسل",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/5"
+  },
+  {
+    "bookId": "6",
+    "bookName": "6Menstrual Periodsكتاب الحيض",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/6"
+  },
+  {
+    "bookId": "7",
+    "bookName": "7Rubbing hands and feet with dust (Tayammum)كتاب التيمم",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/7"
+  },
+  {
+    "bookId": "8",
+    "bookName": "8Prayers (Salat)كتاب الصلاة",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/8"
+  },
+  {
+    "bookId": "9",
+    "bookName": "9Times of the Prayersكتاب مواقيت الصلاة",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/9"
+  },
+  {
+    "bookId": "10",
+    "bookName": "10Call to Prayers (Adhaan)كتاب الأذان",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/10"
+  },
+  {
+    "bookId": "11",
+    "bookName": "11Friday Prayerكتاب الجمعة",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/11"
+  },
+  {
+    "bookId": "12",
+    "bookName": "12Fear Prayerكتاب صلاة الخوف",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/12"
+  },
+  {
+    "bookId": "13",
+    "bookName": "13The Two Festivals (Eids)كتاب العيدين",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/13"
+  },
+  {
+    "bookId": "14",
+    "bookName": "14Witr Prayerكتاب الوتر",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/14"
+  },
+  {
+    "bookId": "15",
+    "bookName": "15Invoking Allah for Rain (Istisqaa)كتاب الاستسقاء",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/15"
+  },
+  {
+    "bookId": "16",
+    "bookName": "16Eclipsesكتاب الكسوف",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/16"
+  },
+  {
+    "bookId": "17",
+    "bookName": "17Prostration During Recital of Qur'anكتاب سجود القرآن",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/17"
+  },
+  {
+    "bookId": "18",
+    "bookName": "18Shortening the Prayers (At-Taqseer)كتاب التقصير",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/18"
+  },
+  {
+    "bookId": "19",
+    "bookName": "19Prayer at Night (Tahajjud)كتاب التهجد",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/19"
+  },
+  {
+    "bookId": "20",
+    "bookName": "20Virtues of Prayer at Masjid Makkah and Madinahكتاب فضل الصلاة فى مسجد مكة والمدينة",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/20"
+  },
+  {
+    "bookId": "21",
+    "bookName": "21Actions while Prayingكتاب العمل فى الصلاة",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/21"
+  },
+  {
+    "bookId": "22",
+    "bookName": "22Forgetfulness in Prayerكتاب السهو",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/22"
+  },
+  {
+    "bookId": "23",
+    "bookName": "23Funerals (Al-Janaa'iz)كتاب الجنائز",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/23"
+  },
+  {
+    "bookId": "24",
+    "bookName": "24Obligatory Charity Tax (Zakat)كتاب الزكاة",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/24"
+  },
+  {
+    "bookId": "25",
+    "bookName": "25Hajj (Pilgrimage)كتاب الحج",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/25"
+  },
+  {
+    "bookId": "26",
+    "bookName": "26`Umrah (Minor pilgrimage)كتاب العمرة",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/26"
+  },
+  {
+    "bookId": "27",
+    "bookName": "27Pilgrims Prevented from Completing the Pilgrimageكتاب المحصر",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/27"
+  },
+  {
+    "bookId": "28",
+    "bookName": "28Penalty of Hunting while on Pilgrimageكتاب جزاء الصيد",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/28"
+  },
+  {
+    "bookId": "29",
+    "bookName": "29Virtues of Madinahكتاب فضائل المدينة",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/29"
+  },
+  {
+    "bookId": "30",
+    "bookName": "30Fastingكتاب الصوم",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/30"
+  },
+  {
+    "bookId": "31",
+    "bookName": "31Praying at Night in Ramadaan (Taraweeh)كتاب صلاة التراويح",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/31"
+  },
+  {
+    "bookId": "32",
+    "bookName": "32Virtues of the Night of Qadrكتاب فضل ليلة القدر",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/32"
+  },
+  {
+    "bookId": "33",
+    "bookName": "33Retiring to a Mosque for Remembrance of Allah (I'tikaf)كتاب الاعتكاف",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/33"
+  },
+  {
+    "bookId": "34",
+    "bookName": "34Sales and Tradeكتاب البيوع",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/34"
+  },
+  {
+    "bookId": "35",
+    "bookName": "35Sales in which a Price is paid for Goods to be Delivered Later (As-Salam)كتاب السلم",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/35"
+  },
+  {
+    "bookId": "36",
+    "bookName": "36Shuf'aكتاب الشفعة",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/36"
+  },
+  {
+    "bookId": "37",
+    "bookName": "37Hiringكتاب الإجارة",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/37"
+  },
+  {
+    "bookId": "38",
+    "bookName": "38Transferance of a Debt from One Person to Another (Al-Hawaala)كتاب الحوالات",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/38"
+  },
+  {
+    "bookId": "39",
+    "bookName": "39Kafalahكتاب الكفالة",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/39"
+  },
+  {
+    "bookId": "40",
+    "bookName": "40Representation, Authorization, Business by Proxyكتاب الوكالة",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/40"
+  },
+  {
+    "bookId": "41",
+    "bookName": "41Agricultureكتاب المزارعة",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/41"
+  },
+  {
+    "bookId": "42",
+    "bookName": "42Distribution of Waterكتاب المساقاة",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/42"
+  },
+  {
+    "bookId": "43",
+    "bookName": "43Loans, Payment of Loans, Freezing of Property, Bankruptcyكتاب فى الاستقراض",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/43"
+  },
+  {
+    "bookId": "44",
+    "bookName": "44Khusoomaatكتاب الخصومات",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/44"
+  },
+  {
+    "bookId": "45",
+    "bookName": "45Lost Things Picked up by Someone (Luqatah)كتاب فى اللقطة",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/45"
+  },
+  {
+    "bookId": "46",
+    "bookName": "46Oppressionsكتاب المظالم",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/46"
+  },
+  {
+    "bookId": "47",
+    "bookName": "47Partnershipكتاب الشركة",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/47"
+  },
+  {
+    "bookId": "48",
+    "bookName": "48Mortgagingكتاب الرهن",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/48"
+  },
+  {
+    "bookId": "49",
+    "bookName": "49Manumission of Slavesكتاب العتق",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/49"
+  },
+  {
+    "bookId": "50",
+    "bookName": "50Makaatibكتاب المكاتب",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/50"
+  },
+  {
+    "bookId": "51",
+    "bookName": "51Giftsكتاب الهبة وفضلها والتحريض عليها",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/51"
+  },
+  {
+    "bookId": "52",
+    "bookName": "52Witnessesكتاب الشهادات",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/52"
+  },
+  {
+    "bookId": "53",
+    "bookName": "53Peacemakingكتاب الصلح",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/53"
+  },
+  {
+    "bookId": "54",
+    "bookName": "54Conditionsكتاب الشروط",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/54"
+  },
+  {
+    "bookId": "55",
+    "bookName": "55Wills and Testaments (Wasaayaa)كتاب الوصايا",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/55"
+  },
+  {
+    "bookId": "56",
+    "bookName": "56Fighting for the Cause of Allah (Jihaad)كتاب الجهاد والسير",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/56"
+  },
+  {
+    "bookId": "57",
+    "bookName": "57One-fifth of Booty to the Cause of Allah (Khumus)كتاب فرض الخمس",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/57"
+  },
+  {
+    "bookId": "58",
+    "bookName": "58Jizyah and Mawaada'ahكتاب الجزية والموادعة",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/58"
+  },
+  {
+    "bookId": "59",
+    "bookName": "59Beginning of Creationكتاب بدء الخلق",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/59"
+  },
+  {
+    "bookId": "60",
+    "bookName": "60Prophetsكتاب أحاديث الأنبياء",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/60"
+  },
+  {
+    "bookId": "61",
+    "bookName": "61Virtues and Merits of the Prophet (pbuh) and his Companionsكتاب المناقب",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/61"
+  },
+  {
+    "bookId": "62",
+    "bookName": "62Companions of the Prophetكتاب فضائل أصحاب النبى صلى الله عليه وسلم",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/62"
+  },
+  {
+    "bookId": "63",
+    "bookName": "63Merits of the Helpers in Madinah (Ansaar)كتاب مناقب الأنصار",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/63"
+  },
+  {
+    "bookId": "64",
+    "bookName": "64Military Expeditions led by the Prophet (pbuh) (Al-Maghaazi)كتاب المغازى",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/64"
+  },
+  {
+    "bookId": "65",
+    "bookName": "65Prophetic Commentary on the Qur'an (Tafseer of the Prophet (pbuh))كتاب التفسير",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/65"
+  },
+  {
+    "bookId": "66",
+    "bookName": "66Virtues of the Qur'anكتاب فضائل القرآن",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/66"
+  },
+  {
+    "bookId": "67",
+    "bookName": "67Wedlock, Marriage (Nikaah)كتاب النكاح",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/67"
+  },
+  {
+    "bookId": "68",
+    "bookName": "68Divorceكتاب الطلاق",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/68"
+  },
+  {
+    "bookId": "69",
+    "bookName": "69Supporting the Familyكتاب النفقات",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/69"
+  },
+  {
+    "bookId": "70",
+    "bookName": "70Food, Mealsكتاب الأطعمة",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/70"
+  },
+  {
+    "bookId": "71",
+    "bookName": "71Sacrifice on Occasion of Birth (`Aqiqa)كتاب العقيقة",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/71"
+  },
+  {
+    "bookId": "72",
+    "bookName": "72Hunting, Slaughteringكتاب الذبائح والصيد",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/72"
+  },
+  {
+    "bookId": "73",
+    "bookName": "73Al-Adha Festival Sacrifice (Adaahi)كتاب الأضاحي",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/73"
+  },
+  {
+    "bookId": "74",
+    "bookName": "74Drinksكتاب الأشربة",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/74"
+  },
+  {
+    "bookId": "75",
+    "bookName": "75Patientsكتاب المرضى",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/75"
+  },
+  {
+    "bookId": "76",
+    "bookName": "76Medicineكتاب الطب",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/76"
+  },
+  {
+    "bookId": "77",
+    "bookName": "77Dressكتاب اللباس",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/77"
+  },
+  {
+    "bookId": "78",
+    "bookName": "78Good Manners and Form (Al-Adab)كتاب الأدب",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/78"
+  },
+  {
+    "bookId": "79",
+    "bookName": "79Asking Permissionكتاب الاستئذان",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/79"
+  },
+  {
+    "bookId": "80",
+    "bookName": "80Invocationsكتاب الدعوات",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/80"
+  },
+  {
+    "bookId": "81",
+    "bookName": "81To make the Heart Tender (Ar-Riqaq)كتاب الرقاق",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/81"
+  },
+  {
+    "bookId": "82",
+    "bookName": "82Divine Will (Al-Qadar)كتاب القدر",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/82"
+  },
+  {
+    "bookId": "83",
+    "bookName": "83Oaths and Vowsكتاب الأيمان والنذور",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/83"
+  },
+  {
+    "bookId": "84",
+    "bookName": "84Expiation for Unfulfilled Oathsكتاب كفارات الأيمان",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/84"
+  },
+  {
+    "bookId": "85",
+    "bookName": "85Laws of Inheritance (Al-Faraa'id)كتاب الفرائض",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/85"
+  },
+  {
+    "bookId": "86",
+    "bookName": "86Limits and Punishments set by Allah (Hudood)كتاب الحدود",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/86"
+  },
+  {
+    "bookId": "87",
+    "bookName": "87Blood Money (Ad-Diyat)كتاب الديات",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/87"
+  },
+  {
+    "bookId": "88",
+    "bookName": "88Apostatesكتاب استتابة المرتدين والمعاندين وقتالهم",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/88"
+  },
+  {
+    "bookId": "89",
+    "bookName": "89(Statements made under) Coercionكتاب الإكراه",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/89"
+  },
+  {
+    "bookId": "90",
+    "bookName": "90Tricksكتاب الحيل",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/90"
+  },
+  {
+    "bookId": "91",
+    "bookName": "91Interpretation of Dreamsكتاب التعبير",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/91"
+  },
+  {
+    "bookId": "92",
+    "bookName": "92Afflictions and the End of the Worldكتاب الفتن",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/92"
+  },
+  {
+    "bookId": "93",
+    "bookName": "93Judgments (Ahkaam)كتاب الأحكام",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/93"
+  },
+  {
+    "bookId": "94",
+    "bookName": "94Wishesكتاب التمنى",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/94"
+  },
+  {
+    "bookId": "95",
+    "bookName": "95Accepting Information Given by a Truthful Personكتاب أخبار الآحاد",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/95"
+  },
+  {
+    "bookId": "96",
+    "bookName": "96Holding Fast to the Qur'an and Sunnahكتاب الاعتصام بالكتاب والسنة",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/96"
+  },
+  {
+    "bookId": "97",
+    "bookName": "97Oneness, Uniqueness of Allah (Tawheed)كتاب التوحيد",
+    "collectionId": "bukhari",
+    "url": "https://sunnah.com/bukhari/97"
+  }
+]

@@ -1,0 +1,344 @@
+[
+  {
+    "bookId": "1",
+    "bookName": "1Parentsكتاب الْوَالِدَيْنِ",
+    "collectionId": "adab",
+    "url": "https://sunnah.com/adab/1"
+  },
+  {
+    "bookId": "2",
+    "bookName": "2Ties of Kinshipكتاب صِلَةِ الرَّحِمِ",
+    "collectionId": "adab",
+    "url": "https://sunnah.com/adab/2"
+  },
+  {
+    "bookId": "3",
+    "bookName": "3Mawlas (Clients of Manumission)كتاب مَوَالِي",
+    "collectionId": "adab",
+    "url": "https://sunnah.com/adab/3"
+  },
+  {
+    "bookId": "4",
+    "bookName": "4Looking after girlsكتاب عول البنات",
+    "collectionId": "adab",
+    "url": "https://sunnah.com/adab/4"
+  },
+  {
+    "bookId": "5",
+    "bookName": "5Looking after childrenكتاب رعاية الأولاد",
+    "collectionId": "adab",
+    "url": "https://sunnah.com/adab/5"
+  },
+  {
+    "bookId": "6",
+    "bookName": "6Neighboursكتاب الْجَارِ",
+    "collectionId": "adab",
+    "url": "https://sunnah.com/adab/6"
+  },
+  {
+    "bookId": "7",
+    "bookName": "7Generosity and Orphansكتاب الْكَرَمِ وَ يَتِيمٌ",
+    "collectionId": "adab",
+    "url": "https://sunnah.com/adab/7"
+  },
+  {
+    "bookId": "8",
+    "bookName": "8Children's Deathكتاب موت الأولاد",
+    "collectionId": "adab",
+    "url": "https://sunnah.com/adab/8"
+  },
+  {
+    "bookId": "9",
+    "bookName": "9Being a masterكتاب الملكة",
+    "collectionId": "adab",
+    "url": "https://sunnah.com/adab/9"
+  },
+  {
+    "bookId": "10",
+    "bookName": "10Supervisionكتاب الرعاية",
+    "collectionId": "adab",
+    "url": "https://sunnah.com/adab/10"
+  },
+  {
+    "bookId": "11",
+    "bookName": "11Good Conductكتاب الْمَعْرُوفِ",
+    "collectionId": "adab",
+    "url": "https://sunnah.com/adab/11"
+  },
+  {
+    "bookId": "12",
+    "bookName": "12Cheerfulness Towards Peopleكتاب الِانْبِسَاطِ إِلَى النَّاسِ",
+    "collectionId": "adab",
+    "url": "https://sunnah.com/adab/12"
+  },
+  {
+    "bookId": "13",
+    "bookName": "13Consultationكتاب الْمَشُورَةِ",
+    "collectionId": "adab",
+    "url": "https://sunnah.com/adab/13"
+  },
+  {
+    "bookId": "14",
+    "bookName": "14Excellence in Characterكتاب حسن الخلق",
+    "collectionId": "adab",
+    "url": "https://sunnah.com/adab/14"
+  },
+  {
+    "bookId": "15",
+    "bookName": "15Cursingكتاب اللعن",
+    "collectionId": "adab",
+    "url": "https://sunnah.com/adab/15"
+  },
+  {
+    "bookId": "16",
+    "bookName": "16Praiseكتاب المدح",
+    "collectionId": "adab",
+    "url": "https://sunnah.com/adab/16"
+  },
+  {
+    "bookId": "17",
+    "bookName": "17Visitationكتاب الزِّيَارَةِ",
+    "collectionId": "adab",
+    "url": "https://sunnah.com/adab/17"
+  },
+  {
+    "bookId": "18",
+    "bookName": "18The Elderlyكتاب الأكَابِرِ",
+    "collectionId": "adab",
+    "url": "https://sunnah.com/adab/18"
+  },
+  {
+    "bookId": "19",
+    "bookName": "19Childrenكتاب الصَّغِيرِ",
+    "collectionId": "adab",
+    "url": "https://sunnah.com/adab/19"
+  },
+  {
+    "bookId": "20",
+    "bookName": "20Mercyكتاب رَحْمَةِ",
+    "collectionId": "adab",
+    "url": "https://sunnah.com/adab/20"
+  },
+  {
+    "bookId": "21",
+    "bookName": "21Social Behaviourكتاب ذات البين",
+    "collectionId": "adab",
+    "url": "https://sunnah.com/adab/21"
+  },
+  {
+    "bookId": "22",
+    "bookName": "22Abandonmentكتاب الهجر",
+    "collectionId": "adab",
+    "url": "https://sunnah.com/adab/22"
+  },
+  {
+    "bookId": "23",
+    "bookName": "23Advisingكتاب الإشارة",
+    "collectionId": "adab",
+    "url": "https://sunnah.com/adab/23"
+  },
+  {
+    "bookId": "24",
+    "bookName": "24Disparagingكتاب السِّبَابِ",
+    "collectionId": "adab",
+    "url": "https://sunnah.com/adab/24"
+  },
+  {
+    "bookId": "25",
+    "bookName": "25Extravagance in Buildingكتاب السَّرَفِ فِي  الْبِنَاءِ",
+    "collectionId": "adab",
+    "url": "https://sunnah.com/adab/25"
+  },
+  {
+    "bookId": "26",
+    "bookName": "26Compassionكتاب الرِّفْقِ",
+    "collectionId": "adab",
+    "url": "https://sunnah.com/adab/26"
+  },
+  {
+    "bookId": "27",
+    "bookName": "27Attending to this worldكتاب الاعتناء بالدنيا",
+    "collectionId": "adab",
+    "url": "https://sunnah.com/adab/27"
+  },
+  {
+    "bookId": "28",
+    "bookName": "28Injusticeكتاب الظُّلْم",
+    "collectionId": "adab",
+    "url": "https://sunnah.com/adab/28"
+  },
+  {
+    "bookId": "29",
+    "bookName": "29Visiting the Illكتاب عيادة المرضى",
+    "collectionId": "adab",
+    "url": "https://sunnah.com/adab/29"
+  },
+  {
+    "bookId": "30",
+    "bookName": "30General Behaviorكتاب التصرف العام",
+    "collectionId": "adab",
+    "url": "https://sunnah.com/adab/30"
+  },
+  {
+    "bookId": "31",
+    "bookName": "31Supplicationكتاب الدعاء",
+    "collectionId": "adab",
+    "url": "https://sunnah.com/adab/31"
+  },
+  {
+    "bookId": "32",
+    "bookName": "32Guests and Spendingكتاب الضيف والنفقة",
+    "collectionId": "adab",
+    "url": "https://sunnah.com/adab/32"
+  },
+  {
+    "bookId": "33",
+    "bookName": "33Sayingsكتاب الأقوال",
+    "collectionId": "adab",
+    "url": "https://sunnah.com/adab/33"
+  },
+  {
+    "bookId": "34",
+    "bookName": "34Namesكتاب الأسْمَاءِ",
+    "collectionId": "adab",
+    "url": "https://sunnah.com/adab/34"
+  },
+  {
+    "bookId": "35",
+    "bookName": "35Kunyasكتاب  الكُنْيَةِ",
+    "collectionId": "adab",
+    "url": "https://sunnah.com/adab/35"
+  },
+  {
+    "bookId": "36",
+    "bookName": "36Poetryكتاب الشِّعْرِ",
+    "collectionId": "adab",
+    "url": "https://sunnah.com/adab/36"
+  },
+  {
+    "bookId": "37",
+    "bookName": "37Wordsكتاب الْكَلامِ",
+    "collectionId": "adab",
+    "url": "https://sunnah.com/adab/37"
+  },
+  {
+    "bookId": "38",
+    "bookName": "38Consequencesكتاب عاقبة الأمور",
+    "collectionId": "adab",
+    "url": "https://sunnah.com/adab/38"
+  },
+  {
+    "bookId": "39",
+    "bookName": "39Omensكتاب الطيرة",
+    "collectionId": "adab",
+    "url": "https://sunnah.com/adab/39"
+  },
+  {
+    "bookId": "40",
+    "bookName": "40Sneezing and Yawningكتاب الْعُطَاسَ والتثاؤب",
+    "collectionId": "adab",
+    "url": "https://sunnah.com/adab/40"
+  },
+  {
+    "bookId": "41",
+    "bookName": "41Gesturesكتاب الحركات",
+    "collectionId": "adab",
+    "url": "https://sunnah.com/adab/41"
+  },
+  {
+    "bookId": "42",
+    "bookName": "42Greetingsكتاب السَّلامِ",
+    "collectionId": "adab",
+    "url": "https://sunnah.com/adab/42"
+  },
+  {
+    "bookId": "43",
+    "bookName": "43Asking Permissionكتاب الاسْتِئْذَانُ",
+    "collectionId": "adab",
+    "url": "https://sunnah.com/adab/43"
+  },
+  {
+    "bookId": "44",
+    "bookName": "44The People of the Bookكتاب أَهْلِ الْكِتَابِ",
+    "collectionId": "adab",
+    "url": "https://sunnah.com/adab/44"
+  },
+  {
+    "bookId": "45",
+    "bookName": "45Lettersكتاب الرَّسَائِلِ‏",
+    "collectionId": "adab",
+    "url": "https://sunnah.com/adab/45"
+  },
+  {
+    "bookId": "46",
+    "bookName": "46Gatheringsكتاب الْمَجَالِسِ",
+    "collectionId": "adab",
+    "url": "https://sunnah.com/adab/46"
+  },
+  {
+    "bookId": "47",
+    "bookName": "47Behaviour with peopleكتاب تعامل الناس",
+    "collectionId": "adab",
+    "url": "https://sunnah.com/adab/47"
+  },
+  {
+    "bookId": "48",
+    "bookName": "48Sitting and lying downباب الجلوس والاستلقاء",
+    "collectionId": "adab",
+    "url": "https://sunnah.com/adab/48"
+  },
+  {
+    "bookId": "49",
+    "bookName": "49Mornings and eveningsكتاب الصباح والمساء",
+    "collectionId": "adab",
+    "url": "https://sunnah.com/adab/49"
+  },
+  {
+    "bookId": "50",
+    "bookName": "50Sleep and night lodgingكتاب النوم والمبيت",
+    "collectionId": "adab",
+    "url": "https://sunnah.com/adab/50"
+  },
+  {
+    "bookId": "51",
+    "bookName": "51Animalsكتاب الْبَهَائِمِ",
+    "collectionId": "adab",
+    "url": "https://sunnah.com/adab/51"
+  },
+  {
+    "bookId": "52",
+    "bookName": "52Midday Napsكتاب الْقَائِلَةِ",
+    "collectionId": "adab",
+    "url": "https://sunnah.com/adab/52"
+  },
+  {
+    "bookId": "53",
+    "bookName": "53Circumcisionكتاب الْخِتَانِ",
+    "collectionId": "adab",
+    "url": "https://sunnah.com/adab/53"
+  },
+  {
+    "bookId": "54",
+    "bookName": "54Betting and similar pastimesكتاب القمار ونحوه",
+    "collectionId": "adab",
+    "url": "https://sunnah.com/adab/54"
+  },
+  {
+    "bookId": "55",
+    "bookName": "55Recognitionكتاب المعرفة",
+    "collectionId": "adab",
+    "url": "https://sunnah.com/adab/55"
+  },
+  {
+    "bookId": "56",
+    "bookName": "56Meddling and Harshnessكتاب الفضول والجفاء",
+    "collectionId": "adab",
+    "url": "https://sunnah.com/adab/56"
+  },
+  {
+    "bookId": "57",
+    "bookName": "57Angerكتاب الْغَضَبِ",
+    "collectionId": "adab",
+    "url": "https://sunnah.com/adab/57"
+  }
+]

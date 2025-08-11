@@ -1,0 +1,59 @@
+{
+  "collectionId": "bukhari",
+  "bookId": 36,
+  "bookName": "36Shuf'aكتاب الشفعة",
+  "hadithCount": 3,
+  "hadiths": [
+    {
+      "hadithNumber": 2257,
+      "english": {
+        "narrated": "Narrated Jabir bin `Abdullah:",
+        "hadith": "Allah's Messenger (ﷺ) gave a verdict regarding Shuf'a in every undivided joint thing (property). But if the \nlimits are defined (or demarcated) or the ways and streets are fixed, then there is no pre-emption.",
+        "grade": ""
+      },
+      "arabic": {
+        "narrated": "",
+        "hadith": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا عَبْدُ الْوَاحِدِ، حَدَّثَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، عَنْ أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ ـ رضى الله عنهما ـ قَالَ قَضَى رَسُولُ اللَّهِ صلى الله عليه وسلم بِالشُّفْعَةِ فِي كُلِّ مَا لَمْ يُقْسَمْ، فَإِذَا وَقَعَتِ الْحُدُودُ وَصُرِّفَتِ الطُّرُقُ فَلاَ شُفْعَةَ‏.‏",
+        "grade": ""
+      },
+      "collectionId": "bukhari",
+      "bookId": 36,
+      "bookName": "36Shuf'aكتاب الشفعة",
+      "bookReference": 2257
+    },
+    {
+      "hadithNumber": 2258,
+      "english": {
+        "narrated": "Narrated `Amr bin Ash-Sharid:",
+        "hadith": "While I was standing with Sa`d bin Abi Waqqas, Al-Miswar bin Makhrama came and put his hand on \nmy shoulder. Meanwhile Abu Rafi`, the freed slave of the Prophet (ﷺ) came and asked Sa`d to buy from \nhim the (two) dwellings which were in his house. Sa`d said, \"By Allah I will not buy them.\" Al- \nMiswar said, \"By Allah, you shall buy them.\" Sa`d replied, \"By Allah, I will not pay more than four \nthousand (Dirhams) by installments.\" Abu Rafi` said, \"I have been offered five hundred Dinars (for it) \nand had I not heard the Prophet (ﷺ) saying, 'The neighbor has more right than anyone else because of his \nnearness, I would not give them to you for four-thousand (Dirhams) while I am offered five-hundred \nDinars (one Dinar equals ten Dirhams) for them.\" So, he sold it to Sa`d.",
+        "grade": ""
+      },
+      "arabic": {
+        "narrated": "",
+        "hadith": "\"‏ الْجَارُ أَحَقُّ بِسَقَبِهِ ‏\"",
+        "grade": ""
+      },
+      "collectionId": "bukhari",
+      "bookId": 36,
+      "bookName": "36Shuf'aكتاب الشفعة",
+      "bookReference": 2258
+    },
+    {
+      "hadithNumber": 2259,
+      "english": {
+        "narrated": "Narrated Aisha:",
+        "hadith": "I said, \"O Allah's Messenger (ﷺ)! I have two neighbors and would like to know to which of them I should \ngive presents.\" He replied, \"To the one whose door is nearer to you.\"",
+        "grade": ""
+      },
+      "arabic": {
+        "narrated": "",
+        "hadith": "\"‏ إِلَى أَقْرَبِهِمَا مِنْكِ بَابًا ‏\"",
+        "grade": ""
+      },
+      "collectionId": "bukhari",
+      "bookId": 36,
+      "bookName": "36Shuf'aكتاب الشفعة",
+      "bookReference": 2259
+    }
+  ]
+}

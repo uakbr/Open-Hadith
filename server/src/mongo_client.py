@@ -19,7 +19,8 @@ class MongoHadithClient:
     ]
 
     def __init__(self, mongo_uri) -> None:
-        client = MongoClient(mongo_uri)
+        # Add timeout to prevent hanging
+        client = MongoClient(mongo_uri, serverSelectionTimeoutMS=1000, connectTimeoutMS=1000)
         self.db = client[MongoHadithClient.DB_NAME]
 
     @functools.lru_cache(maxsize=512)

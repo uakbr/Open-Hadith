@@ -1,0 +1,25 @@
+{
+  "collectionId": "shamail",
+  "bookId": 19,
+  "bookName": "19The Qinaa Of Rasoolullahباب ما جاء في تقنع رسول الله صلى الله عليه وسلم",
+  "hadithCount": 1,
+  "hadiths": [
+    {
+      "hadithNumber": 125,
+      "english": {
+        "narrated": "Anas ibn Malik said:",
+        "hadith": "“Allah’s Messenger (Allah bless him and give him peace) would often wear the head veil, as if his robe was the robe of an oil dealer.”",
+        "grade": ""
+      },
+      "arabic": {
+        "narrated": "",
+        "hadith": "حَدَّثَنَا يُوسُفُ بْنُ عِيسَى، قَالَ‏:‏ حَدَّثَنَا وَكِيعٌ، قَالَ‏:‏ حَدَّثَنَا الرَّبِيعُ بْنُ صَبِيحٍ، عَنْ يَزِيدَ بْنِ أَبَانَ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ‏:‏ كَانَ رَسُولُ اللهِ صلى الله عليه وسلم يُكْثِرُ الْقِنَاعَ، كَأَنَّ ثَوْبَهُ ثَوْبُ زَيَّاتٍ‏.‏",
+        "grade": ""
+      },
+      "collectionId": "shamail",
+      "bookId": 19,
+      "bookName": "19The Qinaa Of Rasoolullahباب ما جاء في تقنع رسول الله صلى الله عليه وسلم",
+      "bookReference": 125
+    }
+  ]
+}

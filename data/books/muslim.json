@@ -1,0 +1,338 @@
+[
+  {
+    "bookId": "1",
+    "bookName": "1The Book of Faithكتاب الإيمان",
+    "collectionId": "muslim",
+    "url": "https://sunnah.com/muslim/1"
+  },
+  {
+    "bookId": "2",
+    "bookName": "2The Book of Purification كتاب الطهارة",
+    "collectionId": "muslim",
+    "url": "https://sunnah.com/muslim/2"
+  },
+  {
+    "bookId": "3",
+    "bookName": "3The Book of Menstruation كتاب الحيض",
+    "collectionId": "muslim",
+    "url": "https://sunnah.com/muslim/3"
+  },
+  {
+    "bookId": "4",
+    "bookName": "4The Book of Prayers  كتاب الصلاة",
+    "collectionId": "muslim",
+    "url": "https://sunnah.com/muslim/4"
+  },
+  {
+    "bookId": "5",
+    "bookName": "5The Book of Mosques and Places of Prayer كتاب الْمَسَاجِدِ وَمَوَاضِعِ الصَّلاَةِ",
+    "collectionId": "muslim",
+    "url": "https://sunnah.com/muslim/5"
+  },
+  {
+    "bookId": "6",
+    "bookName": "6The Book of Prayer - Travellers كتاب صلاة المسافرين وقصرها",
+    "collectionId": "muslim",
+    "url": "https://sunnah.com/muslim/6"
+  },
+  {
+    "bookId": "7",
+    "bookName": "7The Book of Prayer - Friday كتاب الجمعة",
+    "collectionId": "muslim",
+    "url": "https://sunnah.com/muslim/7"
+  },
+  {
+    "bookId": "8",
+    "bookName": "8The Book of Prayer - Two Eids كتاب صلاة العيدين",
+    "collectionId": "muslim",
+    "url": "https://sunnah.com/muslim/8"
+  },
+  {
+    "bookId": "9",
+    "bookName": "9The Book of Prayer - Rain كتاب صلاة الاستسقاء‏",
+    "collectionId": "muslim",
+    "url": "https://sunnah.com/muslim/9"
+  },
+  {
+    "bookId": "10",
+    "bookName": "10The Book of Prayer - Eclipses كتاب الكسوف",
+    "collectionId": "muslim",
+    "url": "https://sunnah.com/muslim/10"
+  },
+  {
+    "bookId": "11",
+    "bookName": "11The Book of Prayer - Funerals كتاب الجنائز",
+    "collectionId": "muslim",
+    "url": "https://sunnah.com/muslim/11"
+  },
+  {
+    "bookId": "12",
+    "bookName": "12The Book of Zakat كتاب الزكاة",
+    "collectionId": "muslim",
+    "url": "https://sunnah.com/muslim/12"
+  },
+  {
+    "bookId": "13",
+    "bookName": "13The Book of Fasting  كتاب الصيام",
+    "collectionId": "muslim",
+    "url": "https://sunnah.com/muslim/13"
+  },
+  {
+    "bookId": "14",
+    "bookName": "14The Book of I'tikaf كتاب الاعتكاف",
+    "collectionId": "muslim",
+    "url": "https://sunnah.com/muslim/14"
+  },
+  {
+    "bookId": "15",
+    "bookName": "15The Book of Pilgrimage كتاب الحج",
+    "collectionId": "muslim",
+    "url": "https://sunnah.com/muslim/15"
+  },
+  {
+    "bookId": "16",
+    "bookName": "16The Book of Marriageكتاب النكاح",
+    "collectionId": "muslim",
+    "url": "https://sunnah.com/muslim/16"
+  },
+  {
+    "bookId": "17",
+    "bookName": "17The Book of Suckling كتاب الرضاع",
+    "collectionId": "muslim",
+    "url": "https://sunnah.com/muslim/17"
+  },
+  {
+    "bookId": "18",
+    "bookName": "18The Book of Divorce  كتاب الطلاق",
+    "collectionId": "muslim",
+    "url": "https://sunnah.com/muslim/18"
+  },
+  {
+    "bookId": "19",
+    "bookName": "19The Book of Invoking Curses كتاب اللعان",
+    "collectionId": "muslim",
+    "url": "https://sunnah.com/muslim/19"
+  },
+  {
+    "bookId": "20",
+    "bookName": "20The Book of Emancipating Slavesكتاب العتق",
+    "collectionId": "muslim",
+    "url": "https://sunnah.com/muslim/20"
+  },
+  {
+    "bookId": "21",
+    "bookName": "21The Book of Transactions كتاب البيوع",
+    "collectionId": "muslim",
+    "url": "https://sunnah.com/muslim/21"
+  },
+  {
+    "bookId": "22",
+    "bookName": "22The Book of Musaqah كتاب المساقاة",
+    "collectionId": "muslim",
+    "url": "https://sunnah.com/muslim/22"
+  },
+  {
+    "bookId": "23",
+    "bookName": "23The Book of the Rules of Inheritance كتاب الفرائض",
+    "collectionId": "muslim",
+    "url": "https://sunnah.com/muslim/23"
+  },
+  {
+    "bookId": "24",
+    "bookName": "24The Book of Gifts كتاب الهبات",
+    "collectionId": "muslim",
+    "url": "https://sunnah.com/muslim/24"
+  },
+  {
+    "bookId": "25",
+    "bookName": "25The Book of Wills كتاب الوصية",
+    "collectionId": "muslim",
+    "url": "https://sunnah.com/muslim/25"
+  },
+  {
+    "bookId": "26",
+    "bookName": "26The Book of Vows كتاب النذر",
+    "collectionId": "muslim",
+    "url": "https://sunnah.com/muslim/26"
+  },
+  {
+    "bookId": "27",
+    "bookName": "27The Book of Oaths كتاب الأيمان",
+    "collectionId": "muslim",
+    "url": "https://sunnah.com/muslim/27"
+  },
+  {
+    "bookId": "28",
+    "bookName": "28The Book of Oaths, Muharibin, Qasas (Retaliation), and Diyat (Blood Money) كتاب القسامة والمحاربين والقصاص والديات",
+    "collectionId": "muslim",
+    "url": "https://sunnah.com/muslim/28"
+  },
+  {
+    "bookId": "29",
+    "bookName": "29The Book of Legal Punishments كتاب الحدود",
+    "collectionId": "muslim",
+    "url": "https://sunnah.com/muslim/29"
+  },
+  {
+    "bookId": "30",
+    "bookName": "30The Book of Judicial Decisions كتاب الأقضية",
+    "collectionId": "muslim",
+    "url": "https://sunnah.com/muslim/30"
+  },
+  {
+    "bookId": "31",
+    "bookName": "31The Book of Lost Property كتاب اللقطة",
+    "collectionId": "muslim",
+    "url": "https://sunnah.com/muslim/31"
+  },
+  {
+    "bookId": "32",
+    "bookName": "32The Book of Jihad and Expeditions كتاب الجهاد والسير",
+    "collectionId": "muslim",
+    "url": "https://sunnah.com/muslim/32"
+  },
+  {
+    "bookId": "33",
+    "bookName": "33The Book on Government كتاب الإمارة",
+    "collectionId": "muslim",
+    "url": "https://sunnah.com/muslim/33"
+  },
+  {
+    "bookId": "34",
+    "bookName": "34The Book of Hunting, Slaughter, and what may be Eaten كتاب الصيد والذبائح وما يؤكل من الحيوان",
+    "collectionId": "muslim",
+    "url": "https://sunnah.com/muslim/34"
+  },
+  {
+    "bookId": "35",
+    "bookName": "35The Book of Sacrifices كتاب الأضاحى",
+    "collectionId": "muslim",
+    "url": "https://sunnah.com/muslim/35"
+  },
+  {
+    "bookId": "36",
+    "bookName": "36The Book of Drinks كتاب الأشربة",
+    "collectionId": "muslim",
+    "url": "https://sunnah.com/muslim/36"
+  },
+  {
+    "bookId": "37",
+    "bookName": "37The Book of Clothes and Adornment كتاب اللباس والزينة",
+    "collectionId": "muslim",
+    "url": "https://sunnah.com/muslim/37"
+  },
+  {
+    "bookId": "38",
+    "bookName": "38The Book of Manners and Etiquette كتاب الآداب",
+    "collectionId": "muslim",
+    "url": "https://sunnah.com/muslim/38"
+  },
+  {
+    "bookId": "39",
+    "bookName": "39The Book of Greetings كتاب السلام",
+    "collectionId": "muslim",
+    "url": "https://sunnah.com/muslim/39"
+  },
+  {
+    "bookId": "40",
+    "bookName": "40The Book Concerning the Use of Correct Words كتاب الألفاظ من الأدب وغيرها",
+    "collectionId": "muslim",
+    "url": "https://sunnah.com/muslim/40"
+  },
+  {
+    "bookId": "41",
+    "bookName": "41The Book of Poetry كتاب الشعر",
+    "collectionId": "muslim",
+    "url": "https://sunnah.com/muslim/41"
+  },
+  {
+    "bookId": "42",
+    "bookName": "42The Book of Dreams كتاب الرؤيا",
+    "collectionId": "muslim",
+    "url": "https://sunnah.com/muslim/42"
+  },
+  {
+    "bookId": "43",
+    "bookName": "43The Book of Virtues كتاب الفضائل",
+    "collectionId": "muslim",
+    "url": "https://sunnah.com/muslim/43"
+  },
+  {
+    "bookId": "44",
+    "bookName": "44The Book of the Merits of the Companions كتاب فضائل الصحابة رضى الله تعالى عنهم",
+    "collectionId": "muslim",
+    "url": "https://sunnah.com/muslim/44"
+  },
+  {
+    "bookId": "45",
+    "bookName": "45The Book of Virtue, Enjoining Good Manners, and Joining of the Ties of Kinship كتاب البر والصلة والآداب",
+    "collectionId": "muslim",
+    "url": "https://sunnah.com/muslim/45"
+  },
+  {
+    "bookId": "46",
+    "bookName": "46The Book of Destiny كتاب القدر",
+    "collectionId": "muslim",
+    "url": "https://sunnah.com/muslim/46"
+  },
+  {
+    "bookId": "47",
+    "bookName": "47The Book of Knowledge كتاب العلم",
+    "collectionId": "muslim",
+    "url": "https://sunnah.com/muslim/47"
+  },
+  {
+    "bookId": "48",
+    "bookName": "48The Book Pertaining to the Remembrance of Allah, Supplication, Repentance and Seeking Forgiveness  كتاب الذكر والدعاء والتوبة والاستغفار",
+    "collectionId": "muslim",
+    "url": "https://sunnah.com/muslim/48"
+  },
+  {
+    "bookId": "49",
+    "bookName": "49The Book of Heart-Melting Traditions كتاب الرقاق",
+    "collectionId": "muslim",
+    "url": "https://sunnah.com/muslim/49"
+  },
+  {
+    "bookId": "50",
+    "bookName": "50The Book of Repentance كتاب التوبة",
+    "collectionId": "muslim",
+    "url": "https://sunnah.com/muslim/50"
+  },
+  {
+    "bookId": "51",
+    "bookName": "51Characteristics of The Hypocrites And Rulings Concerning Them كتاب صفات المنافقين وأحكامهم",
+    "collectionId": "muslim",
+    "url": "https://sunnah.com/muslim/51"
+  },
+  {
+    "bookId": "52",
+    "bookName": "52Characteristics of the Day of Judgment, Paradise, and Hell كتاب صفة القيامة والجنة والنار",
+    "collectionId": "muslim",
+    "url": "https://sunnah.com/muslim/52"
+  },
+  {
+    "bookId": "53",
+    "bookName": "53The Book of Paradise, its Description, its Bounties and its Inhabitants كتاب الجنة وصفة نعيمها وأهلها",
+    "collectionId": "muslim",
+    "url": "https://sunnah.com/muslim/53"
+  },
+  {
+    "bookId": "54",
+    "bookName": "54The Book of Tribulations and Portents of the Last Hour كتاب الفتن وأشراط الساعة",
+    "collectionId": "muslim",
+    "url": "https://sunnah.com/muslim/54"
+  },
+  {
+    "bookId": "55",
+    "bookName": "55The Book of Zuhd and Softening of Hearts  كتاب الزهد والرقائق",
+    "collectionId": "muslim",
+    "url": "https://sunnah.com/muslim/55"
+  },
+  {
+    "bookId": "56",
+    "bookName": "56The Book of Commentary on the Qur'an كتاب التفسير",
+    "collectionId": "muslim",
+    "url": "https://sunnah.com/muslim/56"
+  }
+]
