@@ -4,9 +4,8 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-Open Hadith is a hadith search engine with three main components:
-- **Go API** (`/api`): Handles search requests with MongoDB integration and LRU caching
-- **Python Server** (`/server`): Flask backend with MongoDB Atlas Search integration
+Open Hadith is an offline-first hadith search engine with two main components:
+- **Python Server** (`/server`): Flask backend with local JSON search and LRU caching
 - **Svelte Frontend** (`/web`): SvelteKit app with TailwindCSS, deployed on Netlify
 
 ## Development Commands
@@ -32,33 +31,21 @@ export FLASK_APP=src.app    # On Windows: set FLASK_APP=src.app
 flask run                    # Start development server
 ```
 
-### Go API
-```bash
-go mod download
-go run api/search.go         # Run the search handler
-```
-
 ## Architecture
 
 ### Data Flow
-1. **Frontend** (`/web/src/routes`) → Makes API calls to either Go or Python backend
+1. **Frontend** (`/web/src/routes`) → Makes API calls to Python backend
 2. **Search Endpoints**:
-   - `/api/search` - Legacy Python endpoint using text search
-   - `/api/v2/search` - Atlas Search endpoint with fuzzy matching and highlighting
-   - Go handler provides cached search with direct MongoDB queries
+   - `/api/search` - Basic search endpoint with simple scoring
+   - `/api/v2/search` - Advanced search with fuzzy matching and highlighting
+   - `/api/{collection}/{book}/{ref}` - Direct hadith lookup
 
 ### Backend Services
 
 **Python Server** (`/server/src/`):
 - `app.py`: Flask app with CORS, handles API routes
-- `atlas_search.py`: MongoDB Atlas Search with compound queries, fuzzy matching, and text highlighting
-- `mongo_client.py`: Legacy search using MongoDB text indexes across 6 hadith collections
+- `local_search.py`: Local JSON search with fuzzy matching, highlighting, and LRU caching (512 entries)
 - `model.py`: Hadith data model
-
-**Go API** (`/api/search.go`):
-- LRU cache (512 entries) for search results
-- Direct MongoDB queries with pagination (PAGE_SIZE=50)
-- Special handling for collection+number queries (e.g., "bukhari 123")
 
 ### Frontend Components (`/web/src/lib/`)
 - `SearchBox.svelte`: Main search interface
@@ -66,18 +53,30 @@ go run api/search.go         # Run the search handler
 - `HadithFilters.svelte`: Filter controls
 - `Nav.svelte`: Navigation component
 
-### Database Structure
+### Data Structure
 - **Collections**: bukhari, muslim, abudawud, tirmidhi, nasai, ibnmajah
+- **JSON Files**: Located in `/data/` directory
+- **Search Index**: Pre-built index in `/data/search-index.json` (8MB)
+- **Hadith Data**: Individual books in `/data/hadiths/{collection}/book-{n}.json`
 - **Fields**: collection_id, hadith_no, book_no, book_en, chapter_en, narrator_en, body_en, book_ref_no, hadith_grade
 
 ## Environment Variables
 
-Required for backend services:
-- `MONGO_URL`: MongoDB connection string for legacy search
-- `ATLAS_URL`: MongoDB Atlas connection string for Atlas Search
+Optional for backend services:
 - `FLASK_APP`: Set to `src.app` for Flask
+- `FLASK_ENV`: Set to `development` for development mode
+
+No database configuration needed - the app works entirely with local JSON files.
 
 ## Deployment
 
 - **Frontend**: Deployed to Netlify (see `web/netlify.toml`)
 - **Backend**: Docker container using gunicorn (see `Dockerfile` and `server/gunicorn_starter.sh`)
+
+## Key Features
+
+- **100% Offline**: No database or external services required
+- **Fast Search**: LRU caching and pre-built search index
+- **Fuzzy Matching**: Handles typos and variations
+- **Highlighting**: Shows matched terms in results
+- **Responsive**: Works on mobile and desktop
